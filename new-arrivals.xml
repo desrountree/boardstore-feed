@@ -5,41 +5,14 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Thu, 23 Jul 2026 15:05:44 +1000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Jul 2026 15:16:18 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
-	<item>
-		<title><![CDATA[Micro 80mm Fat Wheel Bearings, Maxi Micro Deluxe Pro - $44.99]]></title>
-		<link>https://www.boardstore.com.au/micro-80mm-fat-wheel-bearings-maxi-micro-deluxe-pr</link>
-		<guid isPermaLink="false"><![CDATA[4771]]></guid>
-		<description><![CDATA[Micro - $44.99]]></description>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/4771.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Micro 120mm LED wheel set x2 Maxi Micro 120mmx30mm - $59.99]]></title>
-		<link>https://www.boardstore.com.au/micro-120mm-led-wheel-set-x2-maxi-micro-120mmx30mm</link>
-		<guid isPermaLink="false"><![CDATA[AC9039B]]></guid>
-		<description><![CDATA[Micro - $59.99]]></description>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/AC9039B.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Micro 100mm LED wheel (1xWheel) - $34.99]]></title>
-		<link>https://www.boardstore.com.au/micro-100mm-led-wheel-1xwheel</link>
-		<guid isPermaLink="false"><![CDATA[AC9070B]]></guid>
-		<description><![CDATA[Micro - $34.99]]></description>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/AC9070B.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Micro Wheel 58mm 80a Inline, Ripstik Wheel - $24.99]]></title>
-		<link>https://www.boardstore.com.au/micro-wheel-58mm-80a-inline-ripstik-wheel</link>
-		<guid isPermaLink="false"><![CDATA[MSAS1WHRD58]]></guid>
-		<description><![CDATA[Micro - $24.99]]></description>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/MSAS1WHRD58.webp" medium="image" />
-	</item>
 	<item>
 		<title><![CDATA[Cockroach LS Tee Archive Royal Blue - $69.99]]></title>
 		<link>https://www.boardstore.com.au/cockroach-ls-tee-archive-royal-blue</link>
 		<guid isPermaLink="false"><![CDATA[roach.ls.arch.blu.]]></guid>
 		<description><![CDATA[Cockroach - $69.99]]></description>
+		<category><![CDATA[Long Sleeve]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/roach.ls.arch.blu..jpg" medium="image" />
 	</item>
 	<item>
@@ -47,6 +20,7 @@
 		<link>https://www.boardstore.com.au/cockroach-ls-tee-archive-black</link>
 		<guid isPermaLink="false"><![CDATA[roach.ls.arch.blk.]]></guid>
 		<description><![CDATA[Cockroach - $69.99]]></description>
+		<category><![CDATA[Long Sleeve]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/roach.ls.arch.blk..jpg" medium="image" />
 	</item>
 	<item>
@@ -54,6 +28,7 @@
 		<link>https://www.boardstore.com.au/asics-gel-vickka-pro-midnight-ivory</link>
 		<guid isPermaLink="false"><![CDATA[1203B331.400.]]></guid>
 		<description><![CDATA[Asics - $159.99]]></description>
+		<category><![CDATA[asics]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/1203B331.400..jpg" medium="image" />
 	</item>
 	<item>
@@ -61,6 +36,7 @@
 		<link>https://www.boardstore.com.au/asics-japan-pro-carbon-graphite-grey</link>
 		<guid isPermaLink="false"><![CDATA[1203B203.020.]]></guid>
 		<description><![CDATA[Asics - $179.99]]></description>
+		<category><![CDATA[asics]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/1203B203.020..webp" medium="image" />
 	</item>
 	<item>
@@ -68,6 +44,7 @@
 		<link>https://www.boardstore.com.au/nike-sb-janoski-slip-black-gum</link>
 		<guid isPermaLink="false"><![CDATA[FN5893-003.]]></guid>
 		<description><![CDATA[Nike SB - $129.99]]></description>
+		<category><![CDATA[Nike SB]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/FN5893-003..jpg" medium="image" />
 	</item>
 	<item>
@@ -75,6 +52,8 @@
 		<link>https://www.boardstore.com.au/globe-complete-peace-man-kids-95-mid-8.25-inch-wid</link>
 		<guid isPermaLink="false"><![CDATA[10525483YPM]]></guid>
 		<description><![CDATA[Globe - $179.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<category><![CDATA[Kids]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/10525483YPM.jpg" medium="image" />
 	</item>
 	<item>
@@ -82,6 +61,7 @@
 		<link>https://www.boardstore.com.au/globe-complete-g2-reflection-black-purple-8.5-inch</link>
 		<guid isPermaLink="false"><![CDATA[10525491.BP]]></guid>
 		<description><![CDATA[Globe - $189.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/10525491.BP.jpg" medium="image" />
 	</item>
 	<item>
@@ -89,6 +69,7 @@
 		<link>https://www.boardstore.com.au/globe-complete-g0-pond-pink-honey-7.7-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[10525500.PH]]></guid>
 		<description><![CDATA[Globe - $129.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/10525500.PH.jpg" medium="image" />
 	</item>
 	<item>
@@ -96,6 +77,7 @@
 		<link>https://www.boardstore.com.au/globe-complete-goodstock-dersert-dusk-7.7-inch-wid</link>
 		<guid isPermaLink="false"><![CDATA[10525351.DD]]></guid>
 		<description><![CDATA[Globe - $159.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/10525351.DD.jpg" medium="image" />
 	</item>
 	<item>
@@ -103,6 +85,7 @@
 		<link>https://www.boardstore.com.au/globe-socks-large-stealth-ankle-5pk-us-12-15-black</link>
 		<guid isPermaLink="false"><![CDATA[GB71139045.BLK.1215]]></guid>
 		<description><![CDATA[Globe - $24.99]]></description>
+		<category><![CDATA[Socks]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/GB71139045.BLK.1215.jpg" medium="image" />
 	</item>
 	<item>
@@ -110,6 +93,7 @@
 		<link>https://www.boardstore.com.au/globe-complete-g0-pond-blue-green-8.0-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[10525500.BG]]></guid>
 		<description><![CDATA[Globe - $129.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/10525500.BG.jpg" medium="image" />
 	</item>
 	<item>
@@ -117,6 +101,8 @@
 		<link>https://www.boardstore.com.au/santa-cruz-deck-end-of-the-world-kendall-foil-10-i</link>
 		<guid isPermaLink="false"><![CDATA[091006201]]></guid>
 		<description><![CDATA[Santa Cruz - $179.99]]></description>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Old School & Shaped]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/091006201.webp" medium="image" />
 	</item>
 	<item>
@@ -124,6 +110,9 @@
 		<link>https://www.boardstore.com.au/santa-cruz-deck-firepit-knox-foil-10.07-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[091006202]]></guid>
 		<description><![CDATA[Santa Cruz - $179.99]]></description>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Old School & Shaped]]></category>
+		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/091006202.webp" medium="image" />
 	</item>
 	<item>
@@ -131,6 +120,8 @@
 		<link>https://www.boardstore.com.au/santa-cruz-deck-meek-slasher-foil-10.01-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[091006203]]></guid>
 		<description><![CDATA[Santa Cruz - $179.99]]></description>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Old School & Shaped]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/091006203.webp" medium="image" />
 	</item>
 	<item>
@@ -138,6 +129,9 @@
 		<link>https://www.boardstore.com.au/santa-cruz-deck-reaper-obrien-foil-9.85-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[091006204]]></guid>
 		<description><![CDATA[Santa Cruz - $179.99]]></description>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Old School & Shaped]]></category>
+		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/091006204.webp" medium="image" />
 	</item>
 	<item>
@@ -145,7 +139,45 @@
 		<link>https://www.boardstore.com.au/santa-cruz-deck-cosmic-winkowski-10.35-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[091006205]]></guid>
 		<description><![CDATA[Santa Cruz - $152.99]]></description>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Old School & Shaped]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/091006205.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Santa Cruz Deck Sword Dressen 9.25 Inch Width - $152.99]]></title>
+		<link>https://www.boardstore.com.au/santa-cruz-deck-sword-dressen-9.25-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[091006207]]></guid>
+		<description><![CDATA[Santa Cruz - $152.99]]></description>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/091006207.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Santa Cruz Deck Delfino Scribble Feelbase 8.25 Inch Width - $134.99]]></title>
+		<link>https://www.boardstore.com.au/santa-cruz-deck-delfino-scribble-feelbase-8.25-inc</link>
+		<guid isPermaLink="false"><![CDATA[091006216]]></guid>
+		<description><![CDATA[Santa Cruz - $134.99]]></description>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/091006216.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Santa Cruz Deck Head Scribble Feelbase 7.7 Inch Width - $134.99]]></title>
+		<link>https://www.boardstore.com.au/santa-cruz-deck-head-scribble-feelbase-7.7-inch-wi</link>
+		<guid isPermaLink="false"><![CDATA[091006217]]></guid>
+		<description><![CDATA[Santa Cruz - $134.99]]></description>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/091006217.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Creature Deck Logo Stumps 8.2 Inch Width (Assorted Veneer) - $134.99]]></title>
+		<link>https://www.boardstore.com.au/creature-deck-logo-stumps-8.2-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[092006079]]></guid>
+		<description><![CDATA[Creature - $134.99]]></description>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/092006079.webp" medium="image" />
 	</item>
 </channel>
 </rss>
