@@ -5,7 +5,7 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Thu, 23 Jul 2026 15:16:18 +1000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Jul 2026 10:50:02 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
 	<item>
 		<title><![CDATA[Cockroach LS Tee Archive Royal Blue - $69.99]]></title>
@@ -162,15 +162,6 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/091006216.webp" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Santa Cruz Deck Head Scribble Feelbase 7.7 Inch Width - $134.99]]></title>
-		<link>https://www.boardstore.com.au/santa-cruz-deck-head-scribble-feelbase-7.7-inch-wi</link>
-		<guid isPermaLink="false"><![CDATA[091006217]]></guid>
-		<description><![CDATA[Santa Cruz - $134.99]]></description>
-		<category><![CDATA[Sale]]></category>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/091006217.webp" medium="image" />
-	</item>
-	<item>
 		<title><![CDATA[Creature Deck Logo Stumps 8.2 Inch Width (Assorted Veneer) - $134.99]]></title>
 		<link>https://www.boardstore.com.au/creature-deck-logo-stumps-8.2-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[092006079]]></guid>
@@ -178,6 +169,15 @@
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/092006079.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Creature Deck Logo Stumps 8.5 Inch Width (Assorted Veneer) - $143.99]]></title>
+		<link>https://www.boardstore.com.au/creature-deck-logo-stumps-8.5-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[092006157]]></guid>
+		<description><![CDATA[Creature - $143.99]]></description>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/092006157.webp" medium="image" />
 	</item>
 </channel>
 </rss>
