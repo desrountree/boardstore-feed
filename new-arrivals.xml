@@ -5,7 +5,7 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Fri, 24 Jul 2026 10:50:02 +1000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Jul 2026 12:19:58 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
 	<item>
 		<title><![CDATA[Cockroach LS Tee Archive Royal Blue - $69.99]]></title>
@@ -101,6 +101,8 @@
 		<link>https://www.boardstore.com.au/santa-cruz-deck-end-of-the-world-kendall-foil-10-i</link>
 		<guid isPermaLink="false"><![CDATA[091006201]]></guid>
 		<description><![CDATA[Santa Cruz - $179.99]]></description>
+		<wasPrice>199.99</wasPrice>
+		<discountPercent>10</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Old School & Shaped]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/091006201.webp" medium="image" />
@@ -110,6 +112,8 @@
 		<link>https://www.boardstore.com.au/santa-cruz-deck-firepit-knox-foil-10.07-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[091006202]]></guid>
 		<description><![CDATA[Santa Cruz - $179.99]]></description>
+		<wasPrice>199.99</wasPrice>
+		<discountPercent>10</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Old School & Shaped]]></category>
 		<category><![CDATA[Double Kick]]></category>
@@ -120,6 +124,8 @@
 		<link>https://www.boardstore.com.au/santa-cruz-deck-meek-slasher-foil-10.01-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[091006203]]></guid>
 		<description><![CDATA[Santa Cruz - $179.99]]></description>
+		<wasPrice>199.99</wasPrice>
+		<discountPercent>10</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Old School & Shaped]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/091006203.webp" medium="image" />
@@ -129,6 +135,8 @@
 		<link>https://www.boardstore.com.au/santa-cruz-deck-reaper-obrien-foil-9.85-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[091006204]]></guid>
 		<description><![CDATA[Santa Cruz - $179.99]]></description>
+		<wasPrice>199.99</wasPrice>
+		<discountPercent>10</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Old School & Shaped]]></category>
 		<category><![CDATA[Double Kick]]></category>
@@ -139,6 +147,8 @@
 		<link>https://www.boardstore.com.au/santa-cruz-deck-cosmic-winkowski-10.35-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[091006205]]></guid>
 		<description><![CDATA[Santa Cruz - $152.99]]></description>
+		<wasPrice>169.99</wasPrice>
+		<discountPercent>10</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Old School & Shaped]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/091006205.webp" medium="image" />
@@ -148,6 +158,8 @@
 		<link>https://www.boardstore.com.au/santa-cruz-deck-sword-dressen-9.25-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[091006207]]></guid>
 		<description><![CDATA[Santa Cruz - $152.99]]></description>
+		<wasPrice>169.99</wasPrice>
+		<discountPercent>10</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/091006207.webp" medium="image" />
@@ -157,6 +169,8 @@
 		<link>https://www.boardstore.com.au/santa-cruz-deck-delfino-scribble-feelbase-8.25-inc</link>
 		<guid isPermaLink="false"><![CDATA[091006216]]></guid>
 		<description><![CDATA[Santa Cruz - $134.99]]></description>
+		<wasPrice>149.99</wasPrice>
+		<discountPercent>10</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/091006216.webp" medium="image" />
@@ -166,6 +180,8 @@
 		<link>https://www.boardstore.com.au/creature-deck-logo-stumps-8.2-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[092006079]]></guid>
 		<description><![CDATA[Creature - $134.99]]></description>
+		<wasPrice>149.99</wasPrice>
+		<discountPercent>10</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/092006079.webp" medium="image" />
@@ -175,6 +191,8 @@
 		<link>https://www.boardstore.com.au/creature-deck-logo-stumps-8.5-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[092006157]]></guid>
 		<description><![CDATA[Creature - $143.99]]></description>
+		<wasPrice>159.99</wasPrice>
+		<discountPercent>10</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/092006157.webp" medium="image" />
