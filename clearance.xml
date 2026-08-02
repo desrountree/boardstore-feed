@@ -5,7 +5,7 @@
 	<link>https://www.boardstore.com.au/clearance/</link>
 	<description>Clearance stock at Boardstore, cheapest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Tue, 28 Jul 2026 16:17:44 +1000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Aug 2026 08:30:48 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/clearance.xml" rel="self" type="application/rss+xml" />
 	<item>
 		<title><![CDATA[Traffic Beanie Script Royal - $20.00]]></title>
@@ -692,34 +692,34 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/umadec.ang.m.8.7.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Visit Deck 8.0 No Place Like Home - $83.99]]></title>
-		<link>https://www.boardstore.com.au/visit-deck-8.0-no-place-like-home</link>
-		<guid isPermaLink="false"><![CDATA[visdec.1.nplh.8.0]]></guid>
-		<description><![CDATA[Visit Skateboarding - $83.99 - was $139.99 - 40% off]]></description>
+		<title><![CDATA[The Killing Floor Deck 8.375 Anderson/Lehman - $83.99]]></title>
+		<link>https://www.boardstore.com.au/the-killing-floor-deck-8.375-anderson-lehman</link>
+		<guid isPermaLink="false"><![CDATA[tkfdec.1.al.8.3]]></guid>
+		<description><![CDATA[The Killing Floor - $83.99 - was $139.99 - 40% off]]></description>
 		<wasPrice>139.99</wasPrice>
 		<discountPercent>40</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<category><![CDATA[8.0-8.5 Inch Decks]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/visdec.1.nplh.8.0.jpg" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/tkfdec.1.al.8.3.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Dogtown Deck Proud Bird Assorted Stain 8.25 - $83.99]]></title>
-		<link>https://www.boardstore.com.au/dogtown-deck-proud-bird-assorted-stain-8.25</link>
-		<guid isPermaLink="false"><![CDATA[dogdec.1.pb.8.2]]></guid>
-		<description><![CDATA[Dogtown - $83.99 - was $139.99 - 40% off]]></description>
+		<title><![CDATA[Visit Deck Hart Skull 8.0 - $83.99]]></title>
+		<link>https://www.boardstore.com.au/visit-deck-hart-skull-8.0</link>
+		<guid isPermaLink="false"><![CDATA[visdec.1.hsk.8.0]]></guid>
+		<description><![CDATA[Visit Skateboarding - $83.99 - was $139.99 - 40% off]]></description>
 		<wasPrice>139.99</wasPrice>
 		<discountPercent>40</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/dogdec.1.pb.8.2.jpg" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/visdec.1.hsk.8.0.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Madrid x Labyrinth Deck Poster 8.0 - $85.00]]></title>
-		<link>https://www.boardstore.com.au/madrid-x-labyrinth-deck-poster-8.0</link>
-		<guid isPermaLink="false"><![CDATA[maddec.lab.pos.8.0]]></guid>
+		<title><![CDATA[Madrid x Labyrinth Deck Sarah 8.0 - $85.00]]></title>
+		<link>https://www.boardstore.com.au/madrid-x-labyrinth-deck-sarah-8.0</link>
+		<guid isPermaLink="false"><![CDATA[maddec.lab.sar.8.0]]></guid>
 		<description><![CDATA[Madrid - $85.00 - was $169.99 - 50% off]]></description>
 		<wasPrice>169.99</wasPrice>
 		<discountPercent>50</discountPercent>
@@ -727,43 +727,43 @@
 		<category><![CDATA[Double Kick]]></category>
 		<category><![CDATA[8.0-8.5 Inch Decks]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/maddec.lab.pos.8.0.png" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/maddec.lab.sar.8.0.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Traffic Deck Wheat Paste 8.25 - $89.99]]></title>
-		<link>https://www.boardstore.com.au/traffic-deck-wheat-paste-8.25</link>
-		<guid isPermaLink="false"><![CDATA[tradec.1.whp.8.2]]></guid>
+		<title><![CDATA[Traffic Deck Wheat Paste 8.375 - $89.99]]></title>
+		<link>https://www.boardstore.com.au/traffic-deck-wheat-paste-8.375</link>
+		<guid isPermaLink="false"><![CDATA[tradec.1.whp.8.3]]></guid>
 		<description><![CDATA[Traffic Skateboards - $89.99 - was $149.99 - 40% off]]></description>
 		<wasPrice>149.99</wasPrice>
 		<discountPercent>40</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/tradec.1.whp.8.2.jpg" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/tradec.1.whp.8.3.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Hopps Deck Quartersnacks 8.0 - $89.99]]></title>
-		<link>https://www.boardstore.com.au/hopps-deck-quartersnacks-8.0</link>
-		<guid isPermaLink="false"><![CDATA[hopdec.1.qs.8.0]]></guid>
+		<title><![CDATA[Hopps Deck Quartersnacks 8.25 - $89.99]]></title>
+		<link>https://www.boardstore.com.au/hopps-deck-quartersnacks-8.25</link>
+		<guid isPermaLink="false"><![CDATA[hopdec.1.qs.8.2]]></guid>
 		<description><![CDATA[Hopps Skateboards - $89.99 - was $149.99 - 40% off]]></description>
 		<wasPrice>149.99</wasPrice>
 		<discountPercent>40</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/hopdec.1.qs.8.0.jpg" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/hopdec.1.qs.8.2.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Traffic Deck Wetzels Paints 8.125 - $89.99]]></title>
-		<link>https://www.boardstore.com.au/traffic-deck-wetzels-paints-8.125</link>
-		<guid isPermaLink="false"><![CDATA[tradec.1.wp.8.1]]></guid>
-		<description><![CDATA[Traffic Skateboards - $89.99 - was $149.99 - 40% off]]></description>
+		<title><![CDATA[Hopps Deck Quartersnacks 8.125 - $89.99]]></title>
+		<link>https://www.boardstore.com.au/hopps-deck-quartersnacks-8.125</link>
+		<guid isPermaLink="false"><![CDATA[hopdec.1.qs.8.1]]></guid>
+		<description><![CDATA[Hopps Skateboards - $89.99 - was $149.99 - 40% off]]></description>
 		<wasPrice>149.99</wasPrice>
 		<discountPercent>40</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/tradec.1.wp.8.1.jpg" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/hopdec.1.qs.8.1.jpg" medium="image" />
 	</item>
 </channel>
 </rss>
