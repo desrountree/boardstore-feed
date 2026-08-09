@@ -5,8 +5,40 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Fri, 07 Aug 2026 07:59:35 +1000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Aug 2026 08:14:03 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[Asics Japan Pro Forest Night/Mako Blue - $179.99]]></title>
+		<link>https://www.boardstore.com.au/asics-japan-pro-forest-night-mako-blue</link>
+		<guid isPermaLink="false"><![CDATA[1203B203.300.]]></guid>
+		<description><![CDATA[Asics - $179.99]]></description>
+		<category><![CDATA[asics]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/1203B203.300..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[New Balance NB Numeric 306 AWC Jamie Foy White/Black - $159.99]]></title>
+		<link>https://www.boardstore.com.au/new-balance-nb-numeric-306-awc-jamie-foy-white-bla</link>
+		<guid isPermaLink="false"><![CDATA[UN306AWC.]]></guid>
+		<description><![CDATA[New Balance - $159.99]]></description>
+		<category><![CDATA[New Balance]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/UN306AWC..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[New Balance NB Numeric 933 ONE Sea Salt/Brown - $199.99]]></title>
+		<link>https://www.boardstore.com.au/new-balance-nb-numeric-933-one-sea-salt-brown</link>
+		<guid isPermaLink="false"><![CDATA[UN933ONE.]]></guid>
+		<description><![CDATA[New Balance - $199.99]]></description>
+		<category><![CDATA[New Balance]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/UN933ONE..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Asics Japan Pro Leather Black/Silver - $179.99]]></title>
+		<link>https://www.boardstore.com.au/asics-japan-pro-leather-black-silver</link>
+		<guid isPermaLink="false"><![CDATA[1203B205.001.]]></guid>
+		<description><![CDATA[Asics - $179.99]]></description>
+		<category><![CDATA[asics]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/1203B205.001..jpg" medium="image" />
+	</item>
 	<item>
 		<title><![CDATA[DC Court Graffik White/Black/Black - $99.99]]></title>
 		<link>https://www.boardstore.com.au/dc-court-graffik-white-black-black~1212860</link>
@@ -62,6 +94,14 @@
 		<description><![CDATA[Root Industries - $16.49]]></description>
 		<category><![CDATA[Brakes]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/9350759072003.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[New Balance NB Numeric 272 TRE Olive/White - $139.99]]></title>
+		<link>https://www.boardstore.com.au/new-balance-nb-numeric-272-tre-olive-white</link>
+		<guid isPermaLink="false"><![CDATA[UN272TRE.]]></guid>
+		<description><![CDATA[New Balance - $139.99]]></description>
+		<category><![CDATA[New Balance]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/UN272TRE..jpg" medium="image" />
 	</item>
 	<item>
 		<title><![CDATA[Vans Sk8-Hi Skate Black/Gum/White - $159.99]]></title>
@@ -234,14 +274,6 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/BLPB-BLK-241.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Bellroy Backpack Lite Travel Pack 38L RiverRock - $329.99]]></title>
-		<link>https://www.boardstore.com.au/bellroy-backpack-lite-travel-pack-38l-riverrock</link>
-		<guid isPermaLink="false"><![CDATA[BLPB-RVR-234]]></guid>
-		<description><![CDATA[Bellroy - $329.99]]></description>
-		<category><![CDATA[Bags]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/BLPB-RVR-234.jpg" medium="image" />
-	</item>
-	<item>
 		<title><![CDATA[Bellroy Bag Laneway Sacoche 3.5L RiverRock - $99.99]]></title>
 		<link>https://www.boardstore.com.au/bellroy-bag-laneway-sacoche-3.5l-riverrock</link>
 		<guid isPermaLink="false"><![CDATA[BOSA-RVR-238]]></guid>
@@ -296,38 +328,6 @@
 		<description><![CDATA[Bellroy - $149.99]]></description>
 		<category><![CDATA[Wallets]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/WPCA-CAR-301.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Toy Machine Youth Tee Turtle Face Green - $54.99]]></title>
-		<link>https://www.boardstore.com.au/toy-machine-youth-tee-turtle-face-green</link>
-		<guid isPermaLink="false"><![CDATA[toytee.p.ytfig]]></guid>
-		<description><![CDATA[Toy Machine - $54.99]]></description>
-		<category><![CDATA[Short Sleeve]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/toytee.p.ytfig.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Toy Machine Youth Tee Sect Face Purple - $54.99]]></title>
-		<link>https://www.boardstore.com.au/toy-machine-youth-tee-sect-face-purple</link>
-		<guid isPermaLink="false"><![CDATA[toytee.p.ysfp]]></guid>
-		<description><![CDATA[Toy Machine - $54.99]]></description>
-		<category><![CDATA[Short Sleeve]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/toytee.p.ysfp.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Toy Machine Youth Tee Sect Face Orange - $54.99]]></title>
-		<link>https://www.boardstore.com.au/toy-machine-youth-tee-sect-face-orange</link>
-		<guid isPermaLink="false"><![CDATA[toytee.p.ysfo]]></guid>
-		<description><![CDATA[Toy Machine - $54.99]]></description>
-		<category><![CDATA[Short Sleeve]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/toytee.p.ysfo.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Toy Machine Youth Tee Monster Face Red - $54.99]]></title>
-		<link>https://www.boardstore.com.au/toy-machine-youth-tee-monster-face-red</link>
-		<guid isPermaLink="false"><![CDATA[toytee.p.ymfr]]></guid>
-		<description><![CDATA[Toy Machine - $54.99]]></description>
-		<category><![CDATA[Short Sleeve]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/toytee.p.ymfr.png" medium="image" />
 	</item>
 </channel>
 </rss>
