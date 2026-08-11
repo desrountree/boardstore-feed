@@ -5,8 +5,32 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Tue, 11 Aug 2026 07:51:51 +1000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Aug 2026 07:33:51 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[187 Pads Six Pack Hibiscus Small/Medium - $169.99]]></title>
+		<link>https://www.boardstore.com.au/187-pads-six-pack-hibiscus-small-medium~1212923</link>
+		<guid isPermaLink="false"><![CDATA[187SPSM890]]></guid>
+		<description><![CDATA[187 Killer Pads - $169.99]]></description>
+		<category><![CDATA[Combo Pads]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/187SPSM890.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[187 Pads Six Pack Hot Wheels X-Small - $169.99]]></title>
+		<link>https://www.boardstore.com.au/187-pads-six-pack-hot-wheels-x-small</link>
+		<guid isPermaLink="false"><![CDATA[187SPXS881]]></guid>
+		<description><![CDATA[187 Killer Pads - $169.99]]></description>
+		<category><![CDATA[Combo Pads]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/187SPXS881.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[187 Pads Six Pack Hibiscus Large/X Large - $169.99]]></title>
+		<link>https://www.boardstore.com.au/187-pads-six-pack-hibiscus-small-medium~1212925</link>
+		<guid isPermaLink="false"><![CDATA[187SPLX890]]></guid>
+		<description><![CDATA[187 Killer Pads - $169.99]]></description>
+		<category><![CDATA[Combo Pads]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/187SPLX890.webp" medium="image" />
+	</item>
 	<item>
 		<title><![CDATA[Asics Japan Pro Forest Night/Mako Blue - $179.99]]></title>
 		<link>https://www.boardstore.com.au/asics-japan-pro-forest-night-mako-blue</link>
@@ -152,6 +176,22 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/CARV.COM.KLP.CX.jpg" medium="image" />
 	</item>
 	<item>
+		<title><![CDATA[Landyachtz Surfskate Butter Spectrum 31 Inch Length - $299.99]]></title>
+		<link>https://www.boardstore.com.au/landyachtz-surfskate-butter-spectrum-31-inch-lengt</link>
+		<guid isPermaLink="false"><![CDATA[LY.SS.BSPEC.]]></guid>
+		<description><![CDATA[Landyachtz - $299.99]]></description>
+		<category><![CDATA[Surfskates]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/LY.SS.BSPEC..webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Landyachtz Surfskate Surf Life Dark Wave 31.5 Inch length - $299.99]]></title>
+		<link>https://www.boardstore.com.au/landyachtz-surfskate-surf-life-dark-wave-31.5-inch</link>
+		<guid isPermaLink="false"><![CDATA[LY.SS.SLDW.]]></guid>
+		<description><![CDATA[Landyachtz - $299.99]]></description>
+		<category><![CDATA[Surfskates]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/LY.SS.SLDW..webp" medium="image" />
+	</item>
+	<item>
 		<title><![CDATA[Powell Peralta Wheels Dragon Formula Symmetrical Rat Bone II 58mm x 33mm 95A - $96.99]]></title>
 		<link>https://www.boardstore.com.au/powell-peralta-wheels-dragon-formula-symmetrical-r~1212777</link>
 		<guid isPermaLink="false"><![CDATA[PP.W.DF.RBII.583395]]></guid>
@@ -288,46 +328,6 @@
 		<description><![CDATA[Bellroy - $99.99]]></description>
 		<category><![CDATA[Bags]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/BOSA-SKP-239.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Bellroy Bag Sling 7L Bronze - $109.99]]></title>
-		<link>https://www.boardstore.com.au/bellroy-bag-sling-7l-bronze</link>
-		<guid isPermaLink="false"><![CDATA[BSLA-BRZ-213]]></guid>
-		<description><![CDATA[Bellroy - $109.99]]></description>
-		<category><![CDATA[Bags]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/BSLA-BRZ-213.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Bellroy Bag Market Tote 15L Kiwi - $54.99]]></title>
-		<link>https://www.boardstore.com.au/bellroy-bag-market-tote-15l-kiwi</link>
-		<guid isPermaLink="false"><![CDATA[BTMA-KWI-212]]></guid>
-		<description><![CDATA[Bellroy - $54.99]]></description>
-		<category><![CDATA[Bags]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/BTMA-KWI-212.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Bellroy Tech Kit Navy - $89.99]]></title>
-		<link>https://www.boardstore.com.au/bellroy-tech-kit-navy</link>
-		<guid isPermaLink="false"><![CDATA[ETKA-NAV-227]]></guid>
-		<description><![CDATA[Bellroy - $89.99]]></description>
-		<category><![CDATA[Bags]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ETKA-NAV-227.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Bellroy Tech Kit Slate - $89.99]]></title>
-		<link>https://www.boardstore.com.au/bellroy-tech-kit-slate</link>
-		<guid isPermaLink="false"><![CDATA[ETKA-SLT-230]]></guid>
-		<description><![CDATA[Bellroy - $89.99]]></description>
-		<category><![CDATA[Bags]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ETKA-SLT-230.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Bellroy Passport Cover Caramel - $149.99]]></title>
-		<link>https://www.boardstore.com.au/bellroy-passport-cover-caramel</link>
-		<guid isPermaLink="false"><![CDATA[WPCA-CAR-301]]></guid>
-		<description><![CDATA[Bellroy - $149.99]]></description>
-		<category><![CDATA[Wallets]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/WPCA-CAR-301.jpg" medium="image" />
 	</item>
 </channel>
 </rss>
