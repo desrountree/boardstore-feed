@@ -5,8 +5,64 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Wed, 19 Aug 2026 07:20:13 +1000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Aug 2026 07:52:59 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[Yow Surfskate Fanning Falcon Performer 33.5" Signature Series - $429.95]]></title>
+		<link>https://www.boardstore.com.au/yow-surfskate-fanning-falcon-performer-33.5-signat</link>
+		<guid isPermaLink="false"><![CDATA[YOCO0025B008]]></guid>
+		<description><![CDATA[Yow - $429.95]]></description>
+		<category><![CDATA[Surfskates]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/YOCO0025B008.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Yow Surfskate Red Tiger 32.6" Pyzel x Yow Surfskate - $429.95]]></title>
+		<link>https://www.boardstore.com.au/yow-surfskate-red-tiger-32.6-pyzel-x-yow-surfskate</link>
+		<guid isPermaLink="false"><![CDATA[YOCO0026A005]]></guid>
+		<description><![CDATA[Yow - $429.95]]></description>
+		<category><![CDATA[Surfskates]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/YOCO0026A005.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Yow Surfskate Pipe 32" Power Surfing Series Yow Surfskate - $429.95]]></title>
+		<link>https://www.boardstore.com.au/yow-surfskate-pipe-32-power-surfing-series-yow-sur</link>
+		<guid isPermaLink="false"><![CDATA[YOCO0026A010]]></guid>
+		<description><![CDATA[Yow - $429.95]]></description>
+		<category><![CDATA[Surfskates]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/YOCO0026A010.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Yow Surfskate Huntington 30" Grom Series Yow Surfskate - $399.99]]></title>
+		<link>https://www.boardstore.com.au/yow-surfskate-huntington-30-grom-series-yow-surfsk</link>
+		<guid isPermaLink="false"><![CDATA[YOCO0026A015]]></guid>
+		<description><![CDATA[Yow - $399.99]]></description>
+		<category><![CDATA[Surfskates]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/YOCO0026A015.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Yow Surfskate Medina Panthera 33.5" Signature Series Yow - $429.95]]></title>
+		<link>https://www.boardstore.com.au/yow-surfskate-medina-panthera-33.5-signature-serie</link>
+		<guid isPermaLink="false"><![CDATA[YOCO0026A020]]></guid>
+		<description><![CDATA[Yow - $429.95]]></description>
+		<category><![CDATA[Surfskates]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/YOCO0026A020.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Yow Surfskate C-Hawk 33" Christenson x Yow Surfskate - $429.95]]></title>
+		<link>https://www.boardstore.com.au/yow-surfskate-c-hawk-33-christenson-x-yow-surfskat</link>
+		<guid isPermaLink="false"><![CDATA[YOCO0026A025]]></guid>
+		<description><![CDATA[Yow - $429.95]]></description>
+		<category><![CDATA[Surfskates]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/YOCO0026A025.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Yow Surfskate Skalle 34" Christenson x Yow Surfskate - $429.95]]></title>
+		<link>https://www.boardstore.com.au/yow-surfskate-skalle-34-christenson-x-yow-surfskat</link>
+		<guid isPermaLink="false"><![CDATA[YOCO0026A027]]></guid>
+		<description><![CDATA[Yow - $429.95]]></description>
+		<category><![CDATA[Surfskates]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/YOCO0026A027.webp" medium="image" />
+	</item>
 	<item>
 		<title><![CDATA[Pepper Grip Gum Griptape Cleaner - $20.00]]></title>
 		<link>https://www.boardstore.com.au/pepper-grip-gum-griptape-cleaner</link>
@@ -79,14 +135,6 @@
 		<description><![CDATA[Heroin - $6.50]]></description>
 		<category><![CDATA[Stickers]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/06.70.0111.FV.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Heroin Sticker Logo Pink/Yellow - $6.50]]></title>
-		<link>https://www.boardstore.com.au/heroin-sticker-logo-pink-yellow-15cm-length</link>
-		<guid isPermaLink="false"><![CDATA[06.70.0111.LPY]]></guid>
-		<description><![CDATA[Heroin - $6.50]]></description>
-		<category><![CDATA[Stickers]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/06.70.0111.LPY.jpg" medium="image" />
 	</item>
 	<item>
 		<title><![CDATA[Heroin Sticker Mini Pickle - $6.50]]></title>
@@ -279,54 +327,6 @@
 		<description><![CDATA[$139.99]]></description>
 		<category><![CDATA[Knee Pads]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/T861001.knee.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[187 Pads Six Pack Hibiscus Small/Medium - $169.99]]></title>
-		<link>https://www.boardstore.com.au/187-pads-six-pack-hibiscus-small-medium~1212923</link>
-		<guid isPermaLink="false"><![CDATA[187SPSM890]]></guid>
-		<description><![CDATA[187 Killer Pads - $169.99]]></description>
-		<category><![CDATA[Combo Pads]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/187SPSM890.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[187 Pads Six Pack Hot Wheels X-Small - $169.99]]></title>
-		<link>https://www.boardstore.com.au/187-pads-six-pack-hot-wheels-x-small</link>
-		<guid isPermaLink="false"><![CDATA[187SPXS881]]></guid>
-		<description><![CDATA[187 Killer Pads - $169.99]]></description>
-		<category><![CDATA[Combo Pads]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/187SPXS881.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[187 Pads Six Pack Hibiscus Large/X Large - $169.99]]></title>
-		<link>https://www.boardstore.com.au/187-pads-six-pack-hibiscus-small-medium~1212925</link>
-		<guid isPermaLink="false"><![CDATA[187SPLX890]]></guid>
-		<description><![CDATA[187 Killer Pads - $169.99]]></description>
-		<category><![CDATA[Combo Pads]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/187SPLX890.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Toy Machine Deck 8.25 Axel Silowet - $129.99]]></title>
-		<link>https://www.boardstore.com.au/toy-machine-deck-8.25-axel-silowet</link>
-		<guid isPermaLink="false"><![CDATA[toydec.20.as.8.2]]></guid>
-		<description><![CDATA[Toy Machine - $129.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/toydec.20.as.8.2.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Toy Machine Deck 8.38 Axel Stabbed - $129.99]]></title>
-		<link>https://www.boardstore.com.au/toy-machine-deck-8.38-axel-stabbed</link>
-		<guid isPermaLink="false"><![CDATA[toydec.20.as.8.3]]></guid>
-		<description><![CDATA[Toy Machine - $129.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/toydec.20.as.8.3.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Toy Machine Deck 8.25 Brain Monster - $119.99]]></title>
-		<link>https://www.boardstore.com.au/toy-machine-deck-8.25-brain-monster</link>
-		<guid isPermaLink="false"><![CDATA[toydec.20.bm.8.2]]></guid>
-		<description><![CDATA[Toy Machine - $119.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/toydec.20.bm.8.2.jpg" medium="image" />
 	</item>
 </channel>
 </rss>
