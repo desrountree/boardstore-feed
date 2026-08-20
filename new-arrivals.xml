@@ -5,8 +5,64 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Thu, 20 Aug 2026 07:52:59 +1000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Aug 2026 07:57:26 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[Vans Youth Tee Lil Reggie Mischeif White - $39.99]]></title>
+		<link>https://www.boardstore.com.au/vans-youth-tee-lil-reggie-mischeif-white</link>
+		<guid isPermaLink="false"><![CDATA[VN000TCKWHT.WH.]]></guid>
+		<description><![CDATA[Vans - $39.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/VN000TCKWHT.WH..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Vans Youth Tee Lil Reggie Mischeif Royal Cobalt - $39.99]]></title>
+		<link>https://www.boardstore.com.au/vans-youth-tee-lil-reggie-mischeif-royal-cobalt</link>
+		<guid isPermaLink="false"><![CDATA[VN000TCKFRX.BLU.]]></guid>
+		<description><![CDATA[Vans - $39.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/VN000TCKFRX.BLU..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Vans Skate Half Cab Wafflecup Rizzo Brown/Black - $189.99]]></title>
+		<link>https://www.boardstore.com.au/vans-skate-half-cab-wafflecup-rizzo-brown-black</link>
+		<guid isPermaLink="false"><![CDATA[VN000D9ZY49.BLK.]]></guid>
+		<description><![CDATA[Vans - $189.99]]></description>
+		<category><![CDATA[Vans]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/VN000D9ZY49.BLK..webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Vans Skate Half Cab Wafflecup Una White/Gum - $189.99]]></title>
+		<link>https://www.boardstore.com.au/vans-skate-half-cab-wafflecup-una-white-gum</link>
+		<guid isPermaLink="false"><![CDATA[VN000D9Z9DH.WHT.]]></guid>
+		<description><![CDATA[Vans - $189.99]]></description>
+		<category><![CDATA[Vans]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/VN000D9Z9DH.WHT..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Reebok Club C Revenge Vintage Chalk/Brown/Gum - $159.99]]></title>
+		<link>https://www.boardstore.com.au/reebok-club-c-revenge-vintage-chalk-brown-gum</link>
+		<guid isPermaLink="false"><![CDATA[100278993.]]></guid>
+		<description><![CDATA[Reebok - $159.99]]></description>
+		<category><![CDATA[Reebok]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/100278993..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[RVCA Shirt SS Vacancy Plaid Black - $89.99]]></title>
+		<link>https://www.boardstore.com.au/rvca-shirt-ss-vacancy-plaid-black</link>
+		<guid isPermaLink="false"><![CDATA[23A041503-ptk.]]></guid>
+		<description><![CDATA[RVCA - $89.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/23A041503-ptk..png" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Patagonia Hat Graphic Maclure Water People Label Pelican - $69.99]]></title>
+		<link>https://www.boardstore.com.au/patagonia-hat-graphic-maclure-water-people-label-p</link>
+		<guid isPermaLink="false"><![CDATA[22545.wlpe]]></guid>
+		<description><![CDATA[Patagonia - $69.99]]></description>
+		<category><![CDATA[Caps]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/22545.wlpe.png" medium="image" />
+	</item>
 	<item>
 		<title><![CDATA[Yow Surfskate Fanning Falcon Performer 33.5" Signature Series - $429.95]]></title>
 		<link>https://www.boardstore.com.au/yow-surfskate-fanning-falcon-performer-33.5-signat</link>
@@ -271,62 +327,6 @@
 		<description><![CDATA[Passport - $139.99]]></description>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/PP.DK.MOCP.8.5.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Passport Deck One Speed 8.25 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/passport-deck-one-speed-8.25-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[PP.DK.OS.8.2]]></guid>
-		<description><![CDATA[Passport - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/PP.DK.OS.8.2.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Passport Deck One Speed 8.5 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/passport-deck-one-speed-8.5-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[PP.DK.OS.8.5]]></guid>
-		<description><![CDATA[Passport - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/PP.DK.OS.8.5.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Passport Deck Reissue Callum Paul Pink Heath 8.25 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/passport-deck-reissue-callum-paul-pink-heath-8.25</link>
-		<guid isPermaLink="false"><![CDATA[PP.DK.PNK.HTH.8.2]]></guid>
-		<description><![CDATA[Passport - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/PP.DK.PNK.HTH.8.2.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Passport Deck Reissue Callum Paul Pink Heath 8.5 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/passport-deck-reissue-callum-paul-pink-heath-8.5-i</link>
-		<guid isPermaLink="false"><![CDATA[PP.DK.PNK.HTH.8.5]]></guid>
-		<description><![CDATA[Passport - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/PP.DK.PNK.HTH.8.5.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Passport Deck Reissue Real Dean Palmer 8.0 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/passport-deck-reissue-real-dean-palmer-8.0-inch-wi</link>
-		<guid isPermaLink="false"><![CDATA[PP.DK.RDP.8.0]]></guid>
-		<description><![CDATA[Passport - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/PP.DK.RDP.8.0.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Passport Deck Stargazer West 8.5 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/passport-deck-stargazer-west-8.5-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[PP.DK.STRWST.8.5]]></guid>
-		<description><![CDATA[Passport - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/PP.DK.STRWST.8.5.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Triple 8 888 Exoskin Knee - $139.99]]></title>
-		<link>https://www.boardstore.com.au/t861001.knee</link>
-		<guid isPermaLink="false"><![CDATA[T861001.knee]]></guid>
-		<description><![CDATA[$139.99]]></description>
-		<category><![CDATA[Knee Pads]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/T861001.knee.jpg" medium="image" />
 	</item>
 </channel>
 </rss>
