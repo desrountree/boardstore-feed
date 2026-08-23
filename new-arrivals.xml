@@ -5,7 +5,7 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Fri, 21 Aug 2026 07:57:26 +1000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Aug 2026 07:43:57 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
 	<item>
 		<title><![CDATA[Vans Youth Tee Lil Reggie Mischeif White - $39.99]]></title>
@@ -193,14 +193,6 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/06.70.0111.FV.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Heroin Sticker Mini Pickle - $6.50]]></title>
-		<link>https://www.boardstore.com.au/heroin-sticker-mini-pickle-15cm-length</link>
-		<guid isPermaLink="false"><![CDATA[06.70.0111.MP]]></guid>
-		<description><![CDATA[Heroin - $6.50]]></description>
-		<category><![CDATA[Stickers]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/06.70.0111.MP.png" medium="image" />
-	</item>
-	<item>
 		<title><![CDATA[Heroin Sticker Merged Razor Egg - $6.50]]></title>
 		<link>https://www.boardstore.com.au/heroin-sticker-merged-razor-egg-15cm-length</link>
 		<guid isPermaLink="false"><![CDATA[06.70.0111.MRE]]></guid>
@@ -327,6 +319,14 @@
 		<description><![CDATA[Passport - $139.99]]></description>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/PP.DK.MOCP.8.5.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Passport Deck One Speed 8.25 Inch Width - $139.99]]></title>
+		<link>https://www.boardstore.com.au/passport-deck-one-speed-8.25-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[PP.DK.OS.8.2]]></guid>
+		<description><![CDATA[Passport - $139.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/PP.DK.OS.8.2.webp" medium="image" />
 	</item>
 </channel>
 </rss>
