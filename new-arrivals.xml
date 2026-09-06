@@ -5,7 +5,7 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Fri, 04 Sep 2026 08:20:19 +1000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Sep 2026 07:55:37 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
 	<item>
 		<title><![CDATA[Globe Complete Softie Micro Unravelled 7.125 Inch Width - $169.99]]></title>
@@ -47,6 +47,14 @@
 		<description><![CDATA[Globe - $179.99]]></description>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/10525498.BC.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Zero Deck There Will Be Blood David Reyes 8.5 Inch Width - $159.99]]></title>
+		<link>https://www.boardstore.com.au/zero-deck-there-will-be-blood-david-reyes-8.5-inch</link>
+		<guid isPermaLink="false"><![CDATA[10980.TWBB]]></guid>
+		<description><![CDATA[Zero - $159.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/10980.TWBB.jpg" medium="image" />
 	</item>
 	<item>
 		<title><![CDATA[Globe Complete Blazer XL Twilight Expedition 36 Inch Length - $299.99]]></title>
@@ -137,6 +145,22 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/etecom.tw.t.8.7.png" medium="image" />
 	</item>
 	<item>
+		<title><![CDATA[Powell Peralta Youth Tee Ripper Black - $49.99]]></title>
+		<link>https://www.boardstore.com.au/powell-peralta-youth-tee-ripper-black</link>
+		<guid isPermaLink="false"><![CDATA[PP.YT.RIP.BLK.]]></guid>
+		<description><![CDATA[Powell Peralta - $49.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/PP.YT.RIP.BLK..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Powell Peralta Tee Yosozumi Onna Bugeisha Black - $54.99]]></title>
+		<link>https://www.boardstore.com.au/powell-peralta-tee-yosozumi-onna-bugeisha-black</link>
+		<guid isPermaLink="false"><![CDATA[PP.T.YOSBG.BLK.]]></guid>
+		<description><![CDATA[Powell Peralta - $54.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/PP.T.YOSBG.BLK..jpg" medium="image" />
+	</item>
+	<item>
 		<title><![CDATA[Patagonia Tee Flying Fish Responsibili-Tee Ink Black - $79.99]]></title>
 		<link>https://www.boardstore.com.au/patagonia-tee-flying-fish-responsibili-tee-ink-bla</link>
 		<guid isPermaLink="false"><![CDATA[37598.INBK.]]></guid>
@@ -151,6 +175,14 @@
 		<description><![CDATA[Etnies - $159.99]]></description>
 		<category><![CDATA[Etnies]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/4101000403.558..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Independent Bolts Phillips Head 1.25 Inch Black - $7.99]]></title>
+		<link>https://www.boardstore.com.au/independent-bolts-phillips-head-1.25-inch-black</link>
+		<guid isPermaLink="false"><![CDATA[100009030]]></guid>
+		<description><![CDATA[Independent - $7.99]]></description>
+		<category><![CDATA[Bolts]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/100009030.webp" medium="image" />
 	</item>
 	<item>
 		<title><![CDATA[Antihero Complete Hounds Black 8.5 Inch Width - $189.99]]></title>
@@ -225,6 +257,30 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/072005096.webp" medium="image" />
 	</item>
 	<item>
+		<title><![CDATA[The Heart Supply Deck Cosmic Sweet Hearts 7.75 Inch Width - $89.99]]></title>
+		<link>https://www.boardstore.com.au/the-heart-supply-deck-cosmic-sweet-hearts-7.75-inc</link>
+		<guid isPermaLink="false"><![CDATA[080006029]]></guid>
+		<description><![CDATA[The Heart Supply - $89.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/080006029.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Santa Cruz Deck VX Elite Eagle 8.0 Inch Width - $189.99]]></title>
+		<link>https://www.boardstore.com.au/santa-cruz-deck-vx-elite-eagle-8.0-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[091006053]]></guid>
+		<description><![CDATA[Santa Cruz - $189.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/091006053.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Independent Pivot Cups Set - $3.00]]></title>
+		<link>https://www.boardstore.com.au/independent-pivot-cups-set</link>
+		<guid isPermaLink="false"><![CDATA[100009042]]></guid>
+		<description><![CDATA[Independent - $3.00]]></description>
+		<category><![CDATA[Bushings & Pivot Cups]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/100009042.jpg" medium="image" />
+	</item>
+	<item>
 		<title><![CDATA[Patagonia Backpack Refugio Day Pack 26L Black - $179.99]]></title>
 		<link>https://www.boardstore.com.au/patagonia-backpack-refugio-day-pack-26l-black</link>
 		<guid isPermaLink="false"><![CDATA[47914-blk]]></guid>
@@ -240,92 +296,36 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/002008054.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Real Shorts Street Cleaner Black Stone - $139.99]]></title>
-		<link>https://www.boardstore.com.au/real-shorts-street-cleaner-black-stone</link>
-		<guid isPermaLink="false"><![CDATA[001004497.]]></guid>
-		<description><![CDATA[Spitfire - $139.99]]></description>
-		<category><![CDATA[Walkshorts]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/001004497..webp" medium="image" />
+		<title><![CDATA[Bones Wheels X-Formula V6 Widecut 99a 54mm - $89.99]]></title>
+		<link>https://www.boardstore.com.au/bones-wheels-x-formula-v6-widecut-99a-54mm</link>
+		<guid isPermaLink="false"><![CDATA[BW.XF.V6.99.54]]></guid>
+		<description><![CDATA[Powell Peralta - $89.99]]></description>
+		<category><![CDATA[Street, Park & Vert]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/BW.XF.V6.99.54.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Spitfire Youth Tee Old E Drop Bighead Burgundy - $54.99]]></title>
-		<link>https://www.boardstore.com.au/spitfire-youth-tee-old-e-drop-bighead-burgundy</link>
-		<guid isPermaLink="false"><![CDATA[005012140.]]></guid>
-		<description><![CDATA[Spitfire - $54.99]]></description>
-		<category><![CDATA[Short Sleeve]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/005012140..webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Spitfire Tee Bighead Embroidery Stripe Burgundy - $79.99]]></title>
-		<link>https://www.boardstore.com.au/spitfire-tee-bighead-embroidery-stripe-burgundy</link>
-		<guid isPermaLink="false"><![CDATA[005012110.]]></guid>
-		<description><![CDATA[Spitfire - $79.99]]></description>
-		<category><![CDATA[Short Sleeve]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/005012110..webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Krooked Shorts Eyes Twill Brown - $139.99]]></title>
-		<link>https://www.boardstore.com.au/krooked-shorts-eyes-twill-brown</link>
-		<guid isPermaLink="false"><![CDATA[003011757.]]></guid>
-		<description><![CDATA[Spitfire - $139.99]]></description>
-		<category><![CDATA[Walkshorts]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/003011757..webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Krooked Tee Eyes Embroidered Stripe Brown - $79.99]]></title>
-		<link>https://www.boardstore.com.au/krooked-tee-eyes-embroidered-stripe-brown</link>
-		<guid isPermaLink="false"><![CDATA[003011753.]]></guid>
-		<description><![CDATA[Spitfire - $79.99]]></description>
-		<category><![CDATA[Short Sleeve]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/003011753..jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Antihero Hat Basic Eagle Snapback Black/Gold - $59.99]]></title>
-		<link>https://www.boardstore.com.au/antihero-hat-basic-eagle-snapback-black-gold</link>
-		<guid isPermaLink="false"><![CDATA[002010118]]></guid>
-		<description><![CDATA[Spitfire - $59.99]]></description>
+		<title><![CDATA[Bones Hat Swiss Circle OG 5 Panel Black - $59.99]]></title>
+		<link>https://www.boardstore.com.au/bones-hat-swiss-circle-og-5-panel-black</link>
+		<guid isPermaLink="false"><![CDATA[BNS.H.SWOG.BLK]]></guid>
+		<description><![CDATA[Powell Peralta - $59.99]]></description>
 		<category><![CDATA[Caps]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/002010118.jpg" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/BNS.H.SWOG.BLK.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Antihero Hat Vampigeon Snapback Charcoal - $59.99]]></title>
-		<link>https://www.boardstore.com.au/antihero-hat-vampigeon-snapback-charcoal</link>
-		<guid isPermaLink="false"><![CDATA[002010308]]></guid>
-		<description><![CDATA[Spitfire - $59.99]]></description>
+		<title><![CDATA[Bones Hat Vato Rat 5 Panel Black/Gold - $59.99]]></title>
+		<link>https://www.boardstore.com.au/bones-hat-vato-rat-5-panel-black-gold</link>
+		<guid isPermaLink="false"><![CDATA[BNS.H.VR.BLK.GLD]]></guid>
+		<description><![CDATA[Powell Peralta - $59.99]]></description>
 		<category><![CDATA[Caps]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/002010308.webp" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/BNS.H.VR.BLK.GLD.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Krooked Hat Sweatpants Snapback Brown - $59.99]]></title>
-		<link>https://www.boardstore.com.au/krooked-hat-sweatpants-snapback-brown</link>
-		<guid isPermaLink="false"><![CDATA[003010275]]></guid>
-		<description><![CDATA[Spitfire - $59.99]]></description>
-		<category><![CDATA[Caps]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/003010275.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Krooked Hat Eyes Snapback Pink - $59.99]]></title>
-		<link>https://www.boardstore.com.au/krooked-hat-eyes-snapback-pink</link>
-		<guid isPermaLink="false"><![CDATA[003010276]]></guid>
-		<description><![CDATA[Spitfire - $59.99]]></description>
-		<category><![CDATA[Caps]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/003010276.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Spitfire Hat Lil Bighead Thorn Black/White - $59.99]]></title>
-		<link>https://www.boardstore.com.au/spitfire-hat-lil-bighead-thorn-black-white</link>
-		<guid isPermaLink="false"><![CDATA[5010610]]></guid>
-		<description><![CDATA[Spitfire - $59.99]]></description>
-		<category><![CDATA[Caps]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/5010610.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Spitfire Hat Lil Bighead Burgundy/Black/White - $59.99]]></title>
-		<link>https://www.boardstore.com.au/spitfire-hat-lil-bighead-burgundy-black-white</link>
-		<guid isPermaLink="false"><![CDATA[5010611]]></guid>
-		<description><![CDATA[Spitfire - $59.99]]></description>
-		<category><![CDATA[Caps]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/5010611.jpg" medium="image" />
+		<title><![CDATA[Powell Peralta Deck Cab Gundam Light Blue/Red Foil 8.5 Inch Width - $129.99]]></title>
+		<link>https://www.boardstore.com.au/powell-peralta-deck-cab-gundam-light-blue-red-foil</link>
+		<guid isPermaLink="false"><![CDATA[PP.D.GUN.BR.8.5]]></guid>
+		<description><![CDATA[Powell Peralta - $129.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/PP.D.GUN.BR.8.5.jpg" medium="image" />
 	</item>
 </channel>
 </rss>
