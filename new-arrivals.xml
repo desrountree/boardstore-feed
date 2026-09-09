@@ -5,8 +5,97 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Wed, 09 Sep 2026 07:27:42 +1000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Sep 2026 08:14:39 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[Slappy Trucks ST1 Classic Polished 8.25 Inch Width - $89.99]]></title>
+		<link>https://www.boardstore.com.au/slappy-trucks-st1-classic-polished-8.25-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[53021001.8.2.POL]]></guid>
+		<description><![CDATA[Slappy - $89.99]]></description>
+		<wasPrice>99.99</wasPrice>
+		<discountPercent>10</discountPercent>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Trucks Skateboards]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/53021001.8.2.POL.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Slappy Trucks ST1 Classic Polished 8.5 Inch Width - $89.99]]></title>
+		<link>https://www.boardstore.com.au/slappy-trucks-st1-classic-polished-8.5-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[53021001.8.5.POL]]></guid>
+		<description><![CDATA[Slappy - $89.99]]></description>
+		<wasPrice>99.99</wasPrice>
+		<discountPercent>10</discountPercent>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Trucks Skateboards]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/53021001.8.5.POL.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Slappy Trucks ST1 Classic Polished 9.0 Inch Width - $98.99]]></title>
+		<link>https://www.boardstore.com.au/slappy-trucks-st1-classic-polished-9.0-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[53021001.9.0.POL]]></guid>
+		<description><![CDATA[Slappy - $98.99]]></description>
+		<wasPrice>109.99</wasPrice>
+		<discountPercent>10</discountPercent>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Trucks Skateboards]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/53021001.9.0.POL.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[New Balance NB Numeric LS Team Jersey Dark Night - $139.99]]></title>
+		<link>https://www.boardstore.com.au/new-balance-nb-numeric-ls-team-jersey-dark-night</link>
+		<guid isPermaLink="false"><![CDATA[T62706V.DNT.]]></guid>
+		<description><![CDATA[New Balance - $139.99]]></description>
+		<category><![CDATA[Long Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/T62706V.DNT..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[New Balance NB Numeric LS Team Jersey Magic Blue - $139.99]]></title>
+		<link>https://www.boardstore.com.au/new-balance-nb-numeric-ls-team-jersey-magic-blue</link>
+		<guid isPermaLink="false"><![CDATA[T62706V.BL.]]></guid>
+		<description><![CDATA[New Balance - $139.99]]></description>
+		<category><![CDATA[Long Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/T62706V.BL..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[New Balance NB Numeric Tee Cotton Dark Night - $59.99]]></title>
+		<link>https://www.boardstore.com.au/new-balance-nb-numeric-tee-cotton-dark-night</link>
+		<guid isPermaLink="false"><![CDATA[T51955.DNT.]]></guid>
+		<description><![CDATA[New Balance - $59.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/T51955.DNT..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[New Balance NB Numeric Tee Cotton Athletic Grey - $59.99]]></title>
+		<link>https://www.boardstore.com.au/new-balance-nb-numeric-tee-cotton-athletic-grey</link>
+		<guid isPermaLink="false"><![CDATA[T51955.AG.]]></guid>
+		<description><![CDATA[New Balance - $59.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/T51955.AG..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[New Balance NB Numeric Tee Cotton Wakame - $59.99]]></title>
+		<link>https://www.boardstore.com.au/new-balance-nb-numeric-tee-cotton-wakame</link>
+		<guid isPermaLink="false"><![CDATA[T51955.AAO.]]></guid>
+		<description><![CDATA[New Balance - $59.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/T51955.AAO..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Vans Skate Half Cab Charcoal Grey/Black - $169.99]]></title>
+		<link>https://www.boardstore.com.au/vans-skate-half-cab-charcoal-grey-black</link>
+		<guid isPermaLink="false"><![CDATA[VN0A5FCDB2U.BLK.]]></guid>
+		<description><![CDATA[Vans - $169.99]]></description>
+		<category><![CDATA[Vans]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/VN0A5FCDB2U.BLK..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[New Balance NB Numeric Hat '47 Clean Up Dark Night - $44.99]]></title>
+		<link>https://www.boardstore.com.au/new-balance-nb-numeric-hat-47-clean-up-dark-night</link>
+		<guid isPermaLink="false"><![CDATA[C1705M.DNT]]></guid>
+		<description><![CDATA[New Balance - $44.99]]></description>
+		<category><![CDATA[Caps]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/C1705M.DNT.jpg" medium="image" />
+	</item>
 	<item>
 		<title><![CDATA[Nike SB Force 58 Mosswood Brown/Geode Teal - $109.99]]></title>
 		<link>https://www.boardstore.com.au/nike-sb-force-58-mosswood-brown-geode-teal</link>
@@ -185,6 +274,14 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/UN480BST..jpg" medium="image" />
 	</item>
 	<item>
+		<title><![CDATA[New Balance NB 272 WAT Dark Night/White - $139.99]]></title>
+		<link>https://www.boardstore.com.au/new-balance-nb-272-wat-dark-night-white</link>
+		<guid isPermaLink="false"><![CDATA[N272WAT.]]></guid>
+		<description><![CDATA[New Balance - $139.99]]></description>
+		<category><![CDATA[New Balance]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/N272WAT..jpg" medium="image" />
+	</item>
+	<item>
 		<title><![CDATA[Adidas Glenburn x Daewon Earth Strata/Yellow/Gum - $119.99]]></title>
 		<link>https://www.boardstore.com.au/adidas-glenburn-x-daewon-earth-strata-yellow-gum</link>
 		<guid isPermaLink="false"><![CDATA[KZ8777.]]></guid>
@@ -239,94 +336,6 @@
 		<description><![CDATA[Enuff - $164.99]]></description>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/STSENU4300BLK.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Enuff Complete Yokai Dragon 8.25 Inch Width - $164.99]]></title>
-		<link>https://www.boardstore.com.au/enuff-complete-yokai-dragon-8.25-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[STSENU4500DRAG]]></guid>
-		<description><![CDATA[Enuff - $164.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/STSENU4500DRAG.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Enuff Complete Yokai Kitsune 8.25 Inch Width - $164.99]]></title>
-		<link>https://www.boardstore.com.au/enuff-complete-yokai-kitsune-8.25-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[STSENU4500KITS]]></guid>
-		<description><![CDATA[Enuff - $164.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/STSENU4500KITS.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Enuff Complete Throwback 8.5 Inch Width - $164.99]]></title>
-		<link>https://www.boardstore.com.au/enuff-complete-throwback-8.5-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[STSENU4600BLK]]></guid>
-		<description><![CDATA[Enuff - $164.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/STSENU4600BLK.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Eternal x Sea Shepherd Complete 8.75 Tiger Shark - $229.99]]></title>
-		<link>https://www.boardstore.com.au/eternal-x-sea-shepherd-complete-8.75-tiger-shark</link>
-		<guid isPermaLink="false"><![CDATA[etecom.tw.t.8.7]]></guid>
-		<description><![CDATA[Eternal Skateboards - $229.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/etecom.tw.t.8.7.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Powell Peralta Youth Tee Ripper Black - $49.99]]></title>
-		<link>https://www.boardstore.com.au/powell-peralta-youth-tee-ripper-black</link>
-		<guid isPermaLink="false"><![CDATA[PP.YT.RIP.BLK.]]></guid>
-		<description><![CDATA[Powell Peralta - $49.99]]></description>
-		<category><![CDATA[Short Sleeve]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/PP.YT.RIP.BLK..jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Powell Peralta Tee Yosozumi Onna Bugeisha Black - $54.99]]></title>
-		<link>https://www.boardstore.com.au/powell-peralta-tee-yosozumi-onna-bugeisha-black</link>
-		<guid isPermaLink="false"><![CDATA[PP.T.YOSBG.BLK.]]></guid>
-		<description><![CDATA[Powell Peralta - $54.99]]></description>
-		<category><![CDATA[Short Sleeve]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/PP.T.YOSBG.BLK..jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Patagonia Tee Flying Fish Responsibili-Tee Ink Black - $79.99]]></title>
-		<link>https://www.boardstore.com.au/patagonia-tee-flying-fish-responsibili-tee-ink-bla</link>
-		<guid isPermaLink="false"><![CDATA[37598.INBK.]]></guid>
-		<description><![CDATA[Patagonia - $79.99]]></description>
-		<category><![CDATA[Short Sleeve]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/37598.INBK..jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Etnies Marana Black/Charcoal/Gum - $159.99]]></title>
-		<link>https://www.boardstore.com.au/etnies-marana-black-charcoal-gum</link>
-		<guid isPermaLink="false"><![CDATA[4101000403.558.]]></guid>
-		<description><![CDATA[Etnies - $159.99]]></description>
-		<category><![CDATA[Etnies]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/4101000403.558..jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Independent Bolts Phillips Head 1.25 Inch Black - $7.99]]></title>
-		<link>https://www.boardstore.com.au/independent-bolts-phillips-head-1.25-inch-black</link>
-		<guid isPermaLink="false"><![CDATA[100009030]]></guid>
-		<description><![CDATA[Independent - $7.99]]></description>
-		<category><![CDATA[Bolts]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/100009030.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Antihero Complete Hounds Black 8.5 Inch Width - $189.99]]></title>
-		<link>https://www.boardstore.com.au/antihero-complete-hounds-black-8.5-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[002008055]]></guid>
-		<description><![CDATA[Antihero - $189.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/002008055.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Krooked Complete Arketype Black 7.5 Inch Width - $189.99]]></title>
-		<link>https://www.boardstore.com.au/krooked-complete-arketype-black-7.5-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[003005215]]></guid>
-		<description><![CDATA[Krooked - $189.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/003005215.png" medium="image" />
 	</item>
 </channel>
 </rss>
