@@ -5,7 +5,7 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Thu, 10 Sep 2026 08:14:39 +1000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Sep 2026 07:32:17 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
 	<item>
 		<title><![CDATA[Slappy Trucks ST1 Classic Polished 8.25 Inch Width - $89.99]]></title>
@@ -266,6 +266,14 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/DK012238.OG.jpg" medium="image" />
 	</item>
 	<item>
+		<title><![CDATA[Slam Skateboarding Magazine Issue 251 - $19.99]]></title>
+		<link>https://www.boardstore.com.au/slam-skateboarding-magazine-issue-251</link>
+		<guid isPermaLink="false"><![CDATA[SSMI.251.]]></guid>
+		<description><![CDATA[Slam - $19.99]]></description>
+		<category><![CDATA[Magazine]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/SSMI.251..jpg" medium="image" />
+	</item>
+	<item>
 		<title><![CDATA[New Balance NB 480 BST Black/Black - $159.99]]></title>
 		<link>https://www.boardstore.com.au/new-balance-nb-480-bst-black-black</link>
 		<guid isPermaLink="false"><![CDATA[UN480BST.]]></guid>
@@ -328,14 +336,6 @@
 		<description><![CDATA[Enuff - $149.99]]></description>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/STSENU4010RED.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Enuff Complete Three Tier Reloaded 8 Inch Width - $164.99]]></title>
-		<link>https://www.boardstore.com.au/enuff-complete-three-tier-reloaded-8-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[STSENU4300BLK]]></guid>
-		<description><![CDATA[Enuff - $164.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/STSENU4300BLK.webp" medium="image" />
 	</item>
 </channel>
 </rss>
