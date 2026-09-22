@@ -5,8 +5,26 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Tue, 22 Sep 2026 07:26:21 +1000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Sep 2026 07:20:07 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[fatboy lock Bang Bang Heavy Duty Chain 1.1m - $100.00]]></title>
+		<link>https://www.boardstore.com.au/fatboy-lock-bang-bang-heavy-duty-chain-1.1m</link>
+		<guid isPermaLink="false"><![CDATA[fatboy.bang.chain.1.1]]></guid>
+		<description><![CDATA[fatboy - $100.00]]></description>
+		<category><![CDATA[Parts & Accessories]]></category>
+		<category><![CDATA[Accessories]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/fatboy.bang.chain.1.1.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[fatboy Bang Bang Cup Holder - $35.00]]></title>
+		<link>https://www.boardstore.com.au/fatboy-bang-bang-cup-holder~1234020</link>
+		<guid isPermaLink="false"><![CDATA[fatboy.bang.cup.blk]]></guid>
+		<description><![CDATA[fatboy - $35.00]]></description>
+		<category><![CDATA[Parts & Accessories]]></category>
+		<category><![CDATA[Accessories]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/fatboy.bang.cup.blk.webp" medium="image" />
+	</item>
 	<item>
 		<title><![CDATA[Vans Skate Half Cab Black/White - $169.99]]></title>
 		<link>https://www.boardstore.com.au/vans-skate-half-cab-black-white</link>
@@ -324,22 +342,6 @@
 		<description><![CDATA[Dickies - $29.99]]></description>
 		<category><![CDATA[Belts]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/DK012238.OG.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Slam Skateboarding Magazine Issue 251 - $19.99]]></title>
-		<link>https://www.boardstore.com.au/slam-skateboarding-magazine-issue-251</link>
-		<guid isPermaLink="false"><![CDATA[SSMI.251.]]></guid>
-		<description><![CDATA[Slam - $19.99]]></description>
-		<category><![CDATA[Magazine]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/SSMI.251..jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[New Balance NB 480 BST Black/Black - $159.99]]></title>
-		<link>https://www.boardstore.com.au/new-balance-nb-480-bst-black-black</link>
-		<guid isPermaLink="false"><![CDATA[UN480BST.]]></guid>
-		<description><![CDATA[New Balance - $159.99]]></description>
-		<category><![CDATA[New Balance]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/UN480BST..jpg" medium="image" />
 	</item>
 </channel>
 </rss>
