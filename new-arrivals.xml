@@ -5,7 +5,7 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Mon, 28 Sep 2026 07:20:07 +1000</lastBuildDate>
+	<lastBuildDate>Wed, 30 Sep 2026 07:26:47 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
 	<item>
 		<title><![CDATA[Antihero Deck Classic Eagle 8.06 Inch Width - $139.99]]></title>
@@ -56,12 +56,52 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/005017541.jpg" medium="image" />
 	</item>
 	<item>
+		<title><![CDATA[Independent Sticker Bar Logo Assorted 15cm Width - $4.00]]></title>
+		<link>https://www.boardstore.com.au/independent-sticker-bar-logo-assorted-15cm-width</link>
+		<guid isPermaLink="false"><![CDATA[100001013]]></guid>
+		<description><![CDATA[Independent - $4.00]]></description>
+		<category><![CDATA[Stickers]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/100001013.webp" medium="image" />
+	</item>
+	<item>
 		<title><![CDATA[Antihero Sticker Pigoen Round assorted  small - $3.50]]></title>
 		<link>https://www.boardstore.com.au/antihero-sticker-pigoen-round-assorted-small</link>
 		<guid isPermaLink="false"><![CDATA[002001149]]></guid>
 		<description><![CDATA[Antihero - $3.50]]></description>
 		<category><![CDATA[Stickers]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/002001149.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Bones Wheels X-Formula V5 Sidecut Ruby Lilley Black Cat 99a 58mm - $97.99]]></title>
+		<link>https://www.boardstore.com.au/bones-wheels-x-formula-v5-sidecut-ruby-lilley-blac</link>
+		<guid isPermaLink="false"><![CDATA[BW.XF.V5.LIL.99.58.]]></guid>
+		<description><![CDATA[Bones - $97.99]]></description>
+		<category><![CDATA[Street, Park & Vert]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/BW.XF.V5.LIL.99.58..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Vans Skate Half Cab Purple Licorice - $169.99]]></title>
+		<link>https://www.boardstore.com.au/vans-skate-half-cab-purple-licorice</link>
+		<guid isPermaLink="false"><![CDATA[VN0A5FCDGRE.PRP.]]></guid>
+		<description><![CDATA[Vans - $169.99]]></description>
+		<category><![CDATA[Vans]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/VN0A5FCDGRE.PRP..png" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Nike Tee Premium Essentials Sustainable Jade Aura - $59.99]]></title>
+		<link>https://www.boardstore.com.au/nike-tee-premium-essentials-sustainable-jade-aura</link>
+		<guid isPermaLink="false"><![CDATA[IH1121-313.]]></guid>
+		<description><![CDATA[Nike SB - $59.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/IH1121-313..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Nike Tee Premium Essentials Sustainable Newsprint - $59.99]]></title>
+		<link>https://www.boardstore.com.au/nike-tee-premium-essentials-sustainable-newsprint</link>
+		<guid isPermaLink="false"><![CDATA[IH1121-005.]]></guid>
+		<description><![CDATA[Nike SB - $59.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/IH1121-005..jpg" medium="image" />
 	</item>
 	<item>
 		<title><![CDATA[Deca Complete Fun Guy Purple 8.25 Inch Width - $129.99]]></title>
@@ -256,76 +296,39 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/ZFX60003.webp" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[April Deck Yuto Horigome Fractured 8.0 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/april-deck-yuto-horigome-fractured-8.0-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[APRIL.AU.Q326.HG.0001]]></guid>
-		<description><![CDATA[April - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/APRIL.AU.Q326.HG.0001.webp" medium="image" />
+		<title><![CDATA[Ichpig Tee Wildcat Grey Marle - $74.99]]></title>
+		<link>https://www.boardstore.com.au/ichpig-tee-wildcat-grey-marle</link>
+		<guid isPermaLink="false"><![CDATA[ich.t.wild.gry.]]></guid>
+		<description><![CDATA[Ichpig - $74.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/ich.t.wild.gry..jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[April Deck Rayssa Leal Snappy 8.0 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/april-deck-rayssa-leal-snappy-8.0-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[APRIL.AU.Q326.HG.0009]]></guid>
-		<description><![CDATA[April - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/APRIL.AU.Q326.HG.0009.jpg" medium="image" />
+		<title><![CDATA[Ichpig Shorts Wildcat Work Shorts Ink - $124.99]]></title>
+		<link>https://www.boardstore.com.au/ichpig-shorts-wildcat-work-shorts-ink</link>
+		<guid isPermaLink="false"><![CDATA[ich.sho.wldink.]]></guid>
+		<description><![CDATA[Ichpig - $124.99]]></description>
+		<category><![CDATA[Walkshorts]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/ich.sho.wldink..jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[April Deck Rayssa Leal Snappy 8.25 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/april-deck-rayssa-leal-snappy-8.25-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[APRIL.AU.Q326.HG.0010]]></guid>
-		<description><![CDATA[April - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/APRIL.AU.Q326.HG.0010.jpg" medium="image" />
+		<title><![CDATA[Ichpig Hat Monogram Ball Cap Royal Blue - $69.99]]></title>
+		<link>https://www.boardstore.com.au/ichpig-hat-monogram-ball-cap-royal-blue</link>
+		<guid isPermaLink="false"><![CDATA[ich.h.mon.roy]]></guid>
+		<description><![CDATA[Ichpig - $69.99]]></description>
+		<category><![CDATA[Caps]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/ich.h.mon.roy.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[April Deck Kai Kishi Blurred 8.25 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/april-deck-kai-kishi-blurred-8.25-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[APRIL.AU.Q326.HG.0011]]></guid>
-		<description><![CDATA[April - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/APRIL.AU.Q326.HG.0011.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[April Deck Kai Kishi Blurred 8.38 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/april-deck-kai-kishi-blurred-8.38-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[APRIL.AU.Q326.HG.0012]]></guid>
-		<description><![CDATA[April - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/APRIL.AU.Q326.HG.0012.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[April Deck Ronnie Kessner Two Tone 8.25 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/april-deck-ronnie-kessner-two-tone-8.25-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[APRIL.AU.Q326.HG.0013]]></guid>
-		<description><![CDATA[April - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/APRIL.AU.Q326.HG.0013.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[April Deck Ronnie Kessner Two Tone 8.5 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/april-deck-ronnie-kessner-two-tone-8.5-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[APRIL.AU.Q326.HG.0014]]></guid>
-		<description><![CDATA[April - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/APRIL.AU.Q326.HG.0014.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[April Deck OG Logo Uni 8.0 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/april-deck-og-logo-uni-8.0-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[APRIL.AU.Q326.HG.0017]]></guid>
-		<description><![CDATA[April - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/APRIL.AU.Q326.HG.0017.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[April Deck OG Logo Foil 8.25 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/april-deck-og-logo-foil-8.25-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[APRIL.AU.Q326.HG.0019]]></guid>
-		<description><![CDATA[April - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/APRIL.AU.Q326.HG.0019.webp" medium="image" />
+		<title><![CDATA[Vans Old Skool Classic Navy/White - $109.00]]></title>
+		<link>https://www.boardstore.com.au/vans-old-skool-classic-navy-white</link>
+		<guid isPermaLink="false"><![CDATA[vn-0d3hnvy.nvy.]]></guid>
+		<description><![CDATA[Vans - $109.00]]></description>
+		<wasPrice>139.99</wasPrice>
+		<discountPercent>22</discountPercent>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Vans]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/vn-0d3hnvy.nvy..jpg" medium="image" />
 	</item>
 </channel>
 </rss>
