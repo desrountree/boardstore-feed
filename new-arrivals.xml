@@ -5,8 +5,24 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Wed, 30 Sep 2026 07:26:47 +1000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Oct 2026 07:42:51 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[On Ya Head Fred Youth Hat Best Buds - $35.00]]></title>
+		<link>https://www.boardstore.com.au/on-ya-head-fred-youth-hat-best-buds</link>
+		<guid isPermaLink="false"><![CDATA[OYHF.bestbuds]]></guid>
+		<description><![CDATA[On Ya Head Fred - $35.00]]></description>
+		<category><![CDATA[Headwear]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/OYHF.bestbuds.png" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[On Ya Head Fred Youth Hat Iced Vovo - $35.00]]></title>
+		<link>https://www.boardstore.com.au/on-ya-head-fred-youth-hat-iced-vovo</link>
+		<guid isPermaLink="false"><![CDATA[OYHF.icevovo]]></guid>
+		<description><![CDATA[On Ya Head Fred - $35.00]]></description>
+		<category><![CDATA[Headwear]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/OYHF.icevovo.png" medium="image" />
+	</item>
 	<item>
 		<title><![CDATA[Antihero Deck Classic Eagle 8.06 Inch Width - $139.99]]></title>
 		<link>https://www.boardstore.com.au/antihero-deck-classic-eagle-chinese-press-8.06-inc</link>
@@ -30,14 +46,6 @@
 		<description><![CDATA[Antihero - $139.99]]></description>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/002013150.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Antihero Deck Grant Taylor Expression 8.5 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/antihero-deck-grant-taylor-expression-8.5-inch-wid</link>
-		<guid isPermaLink="false"><![CDATA[002013190]]></guid>
-		<description><![CDATA[Antihero - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/002013190.webp" medium="image" />
 	</item>
 	<item>
 		<title><![CDATA[Spitfire Wheels F4 99D Conical Full Pink 53mm - $119.99]]></title>
@@ -102,6 +110,46 @@
 		<description><![CDATA[Nike SB - $59.99]]></description>
 		<category><![CDATA[Short Sleeve]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/IH1121-005..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Volcom Boardshorts Reaper Stone Mod 21 Brown Stone - $89.99]]></title>
+		<link>https://www.boardstore.com.au/volcom-boardshorts-reaper-stone-mod-21-brown-stone</link>
+		<guid isPermaLink="false"><![CDATA[UCYBS03001-BRS.]]></guid>
+		<description><![CDATA[Volcom - $89.99]]></description>
+		<category><![CDATA[Boardshorts]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/UCYBS03001-BRS..png" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Volcom Boardshorts Pro Stone Mod 21 Squadron Green - $89.99]]></title>
+		<link>https://www.boardstore.com.au/volcom-boardshorts-pro-stone-mod-21-squadron-green</link>
+		<guid isPermaLink="false"><![CDATA[UCYBS03000-SQD.]]></guid>
+		<description><![CDATA[Volcom - $89.99]]></description>
+		<category><![CDATA[Boardshorts]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/UCYBS03000-SQD..png" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Volcom Youth Tee Altarium Black - $39.99]]></title>
+		<link>https://www.boardstore.com.au/volcom-youth-tee-altarium-black</link>
+		<guid isPermaLink="false"><![CDATA[UCBZT03006.blk.]]></guid>
+		<description><![CDATA[Volcom - $39.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/UCBZT03006.blk..png" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Volcom Youth Tee Spectrum Dirty White - $49.99]]></title>
+		<link>https://www.boardstore.com.au/volcom-youth-tee-spectrum-dirty-white</link>
+		<guid isPermaLink="false"><![CDATA[UCBZT03005-DWH.]]></guid>
+		<description><![CDATA[Volcom - $49.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/UCBZT03005-DWH..png" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Volcom Youth Tee Stone Script Black - $39.99]]></title>
+		<link>https://www.boardstore.com.au/volcom-youth-tee-stone-script-black</link>
+		<guid isPermaLink="false"><![CDATA[UCBZT03001-BLK.]]></guid>
+		<description><![CDATA[Volcom - $39.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/UCBZT03001-BLK..png" medium="image" />
 	</item>
 	<item>
 		<title><![CDATA[Deca Complete Fun Guy Purple 8.25 Inch Width - $129.99]]></title>
@@ -278,57 +326,6 @@
 		<description><![CDATA[Theories - $129.99]]></description>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/thedec.2.os.8.7.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Z-Flex Wheels Z Pro 60mm 90a White/ Blue - $59.99]]></title>
-		<link>https://www.boardstore.com.au/z-flex-wheels-z-pro-60mm-90a-white-blue</link>
-		<guid isPermaLink="false"><![CDATA[ZFX60002]]></guid>
-		<description><![CDATA[Z-Flex - $59.99]]></description>
-		<category><![CDATA[Street, Park & Vert]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ZFX60002.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Z-Flex Wheels Z Pro 60mm 90a Black/Red - $59.99]]></title>
-		<link>https://www.boardstore.com.au/z-flex-wheels-z-pro-60mm-90a-black-red</link>
-		<guid isPermaLink="false"><![CDATA[ZFX60003]]></guid>
-		<description><![CDATA[Z-Flex - $59.99]]></description>
-		<category><![CDATA[Street, Park & Vert]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ZFX60003.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Ichpig Tee Wildcat Grey Marle - $74.99]]></title>
-		<link>https://www.boardstore.com.au/ichpig-tee-wildcat-grey-marle</link>
-		<guid isPermaLink="false"><![CDATA[ich.t.wild.gry.]]></guid>
-		<description><![CDATA[Ichpig - $74.99]]></description>
-		<category><![CDATA[Short Sleeve]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ich.t.wild.gry..jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Ichpig Shorts Wildcat Work Shorts Ink - $124.99]]></title>
-		<link>https://www.boardstore.com.au/ichpig-shorts-wildcat-work-shorts-ink</link>
-		<guid isPermaLink="false"><![CDATA[ich.sho.wldink.]]></guid>
-		<description><![CDATA[Ichpig - $124.99]]></description>
-		<category><![CDATA[Walkshorts]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ich.sho.wldink..jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Ichpig Hat Monogram Ball Cap Royal Blue - $69.99]]></title>
-		<link>https://www.boardstore.com.au/ichpig-hat-monogram-ball-cap-royal-blue</link>
-		<guid isPermaLink="false"><![CDATA[ich.h.mon.roy]]></guid>
-		<description><![CDATA[Ichpig - $69.99]]></description>
-		<category><![CDATA[Caps]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ich.h.mon.roy.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Vans Old Skool Classic Navy/White - $109.00]]></title>
-		<link>https://www.boardstore.com.au/vans-old-skool-classic-navy-white</link>
-		<guid isPermaLink="false"><![CDATA[vn-0d3hnvy.nvy.]]></guid>
-		<description><![CDATA[Vans - $109.00]]></description>
-		<wasPrice>139.99</wasPrice>
-		<discountPercent>22</discountPercent>
-		<category><![CDATA[Sale]]></category>
-		<category><![CDATA[Vans]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/vn-0d3hnvy.nvy..jpg" medium="image" />
 	</item>
 </channel>
 </rss>
