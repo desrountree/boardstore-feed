@@ -5,8 +5,32 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Thu, 01 Oct 2026 07:42:51 +1000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Oct 2026 07:25:15 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[Globe Goodstock Knee Pad Set Matte Black - $49.99]]></title>
+		<link>https://www.boardstore.com.au/globe-goodstock-knee-pad-set-matte-black</link>
+		<guid isPermaLink="false"><![CDATA[12025004.]]></guid>
+		<description><![CDATA[Globe - $49.99]]></description>
+		<category><![CDATA[Knee Pads]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/12025004..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Slappy Trucks ST1 X Bam Hollow 8.5 Inch Width - $129.99]]></title>
+		<link>https://www.boardstore.com.au/slappy-trucks-st1-x-bam-hollow-8.5-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[SLP530045.8.5]]></guid>
+		<description><![CDATA[Slappy - $129.99]]></description>
+		<category><![CDATA[Trucks Skateboards]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/SLP530045.8.5.png" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Slappy Trucks ST1 X Bam Hollow 9.0 Inch Width - $129.99]]></title>
+		<link>https://www.boardstore.com.au/slappy-trucks-st1-x-bam-hollow-9.0-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[SLP530045.9.0]]></guid>
+		<description><![CDATA[Slappy - $129.99]]></description>
+		<category><![CDATA[Trucks Skateboards]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/SLP530045.9.0.png" medium="image" />
+	</item>
 	<item>
 		<title><![CDATA[On Ya Head Fred Youth Hat Best Buds - $35.00]]></title>
 		<link>https://www.boardstore.com.au/on-ya-head-fred-youth-hat-best-buds</link>
@@ -302,30 +326,6 @@
 		<description><![CDATA[Theories - $129.99]]></description>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/thedec.2.f.8.7.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Theories Deck 8.25 Lights Out - $129.99]]></title>
-		<link>https://www.boardstore.com.au/theories-deck-8.25-lights-out</link>
-		<guid isPermaLink="false"><![CDATA[thedec.2.lo.8.2]]></guid>
-		<description><![CDATA[Theories - $129.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/thedec.2.lo.8.2.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Theories Deck 8.25 Connor Noll Not What They Seem - $129.99]]></title>
-		<link>https://www.boardstore.com.au/theories-deck-8.25-connor-noll-not-what-they-seem</link>
-		<guid isPermaLink="false"><![CDATA[thedec.2.nw.8.2]]></guid>
-		<description><![CDATA[Theories - $129.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/thedec.2.nw.8.2.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Theories Deck 8.75 Outer Space - $129.99]]></title>
-		<link>https://www.boardstore.com.au/theories-deck-8.75-outer-space</link>
-		<guid isPermaLink="false"><![CDATA[thedec.2.os.8.7]]></guid>
-		<description><![CDATA[Theories - $129.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/thedec.2.os.8.7.jpg" medium="image" />
 	</item>
 </channel>
 </rss>
