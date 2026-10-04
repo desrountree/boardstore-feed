@@ -5,7 +5,7 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Fri, 02 Oct 2026 07:25:15 +1000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Oct 2026 08:03:19 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
 	<item>
 		<title><![CDATA[Globe Goodstock Knee Pad Set Matte Black - $49.99]]></title>
@@ -248,14 +248,6 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/etedec.3.brg.8.2.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Eternal Deck 8.5 Baby Rays Green - $119.99]]></title>
-		<link>https://www.boardstore.com.au/eternal-deck-8.5-baby-rays-green</link>
-		<guid isPermaLink="false"><![CDATA[etedec.3.brg.8.5]]></guid>
-		<description><![CDATA[Eternal Skateboards - $119.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/etedec.3.brg.8.5.jpg" medium="image" />
-	</item>
-	<item>
 		<title><![CDATA[Eternal Deck 8.25 Baby Rays Purple - $119.99]]></title>
 		<link>https://www.boardstore.com.au/eternal-deck-8.25-baby-rays-purple</link>
 		<guid isPermaLink="false"><![CDATA[etedec.3.brp.8.2]]></guid>
@@ -312,20 +304,28 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/etedec.3.ha.8.2.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Eternal Deck 8.5 Hessian Aqua - $119.99]]></title>
-		<link>https://www.boardstore.com.au/eternal-deck-8.5-hessian-aqua</link>
-		<guid isPermaLink="false"><![CDATA[etedec.3.ha.8.5]]></guid>
-		<description><![CDATA[Eternal Skateboards - $119.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/etedec.3.ha.8.5.jpg" medium="image" />
-	</item>
-	<item>
 		<title><![CDATA[Theories Deck 8.75 Felons - $129.99]]></title>
 		<link>https://www.boardstore.com.au/theories-deck-8.75-felons</link>
 		<guid isPermaLink="false"><![CDATA[thedec.2.f.8.7]]></guid>
 		<description><![CDATA[Theories - $129.99]]></description>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/thedec.2.f.8.7.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Theories Deck 8.25 Lights Out - $129.99]]></title>
+		<link>https://www.boardstore.com.au/theories-deck-8.25-lights-out</link>
+		<guid isPermaLink="false"><![CDATA[thedec.2.lo.8.2]]></guid>
+		<description><![CDATA[Theories - $129.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/thedec.2.lo.8.2.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Theories Deck 8.25 Connor Noll Not What They Seem - $129.99]]></title>
+		<link>https://www.boardstore.com.au/theories-deck-8.25-connor-noll-not-what-they-seem</link>
+		<guid isPermaLink="false"><![CDATA[thedec.2.nw.8.2]]></guid>
+		<description><![CDATA[Theories - $129.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/thedec.2.nw.8.2.jpg" medium="image" />
 	</item>
 </channel>
 </rss>
