@@ -5,8 +5,24 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Fri, 09 Oct 2026 07:53:27 +1000</lastBuildDate>
+	<lastBuildDate>Mon, 12 Oct 2026 07:20:08 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[Nike SB Janoski Zoom OG+ Black/White - $149.99]]></title>
+		<link>https://www.boardstore.com.au/nike-sb-janoski-zoom-og-black-white</link>
+		<guid isPermaLink="false"><![CDATA[FD6757-001.]]></guid>
+		<description><![CDATA[Nike SB - $149.99]]></description>
+		<category><![CDATA[Nike SB]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/FD6757-001..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Nike SB Chron 2 Fauna Brown/Desert Dust - $109.99]]></title>
+		<link>https://www.boardstore.com.au/nike-sb-chron-2-fauna-brown-desert-dust</link>
+		<guid isPermaLink="false"><![CDATA[DM3493-206.]]></guid>
+		<description><![CDATA[Nike SB - $109.99]]></description>
+		<category><![CDATA[Nike SB]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/DM3493-206..jpg" medium="image" />
+	</item>
 	<item>
 		<title><![CDATA[Blind Complete Shroom Land 8.125 Inch Width - $139.99]]></title>
 		<link>https://www.boardstore.com.au/blind-complete-shroom-land-8.125-inch-width</link>
@@ -310,22 +326,6 @@
 		<description><![CDATA[Krooked - $149.99]]></description>
 		<category><![CDATA[Old School & Shaped]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/003008004.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Krooked Deck Ray Barbee Trophy 9.5 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/krooked-deck-ray-barbee-trophy-9.5-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[003008009]]></guid>
-		<description><![CDATA[Krooked - $139.99]]></description>
-		<category><![CDATA[Old School & Shaped]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/003008009.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Krooked Deck Knox Watcher 8.5 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/krooked-deck-knox-watcher-8.5-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[003008014]]></guid>
-		<description><![CDATA[Krooked - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/003008014.jpg" medium="image" />
 	</item>
 </channel>
 </rss>
