@@ -5,8 +5,16 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Wed, 14 Oct 2026 08:10:36 +1000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Oct 2026 07:33:35 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[Nike SB Janoski Zoom OG+ Black/White/Gum - $149.99]]></title>
+		<link>https://www.boardstore.com.au/nike-sb-janoski-zoom-og-black-white-gum</link>
+		<guid isPermaLink="false"><![CDATA[FD6757-007.]]></guid>
+		<description><![CDATA[Nike SB - $149.99]]></description>
+		<category><![CDATA[Nike SB]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/FD6757-007..jpg" medium="image" />
+	</item>
 	<item>
 		<title><![CDATA[Nike SB Janoski Zoom OG+ Black/White - $149.99]]></title>
 		<link>https://www.boardstore.com.au/nike-sb-janoski-zoom-og-black-white</link>
@@ -24,12 +32,76 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/DM3493-206..jpg" medium="image" />
 	</item>
 	<item>
+		<title><![CDATA[Nike SB Code 58 Dark Smoke Grey/Blue Eclipse - $139.99]]></title>
+		<link>https://www.boardstore.com.au/nike-sb-code-58-dark-smoke-grey-blue-eclipse</link>
+		<guid isPermaLink="false"><![CDATA[IB0108-002.]]></guid>
+		<description><![CDATA[Nike SB - $139.99]]></description>
+		<category><![CDATA[Nike SB]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/IB0108-002..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Nike SB Force 58 Shadow Brown/Burgundy Ash - $109.99]]></title>
+		<link>https://www.boardstore.com.au/nike-sb-force-58-shadow-brown-burgundy-ash</link>
+		<guid isPermaLink="false"><![CDATA[DV5477-204.]]></guid>
+		<description><![CDATA[Nike SB - $109.99]]></description>
+		<category><![CDATA[Nike SB]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/DV5477-204..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Vans Youth Slip-On Classic Color Theory Checkerboard Oil Green - $79.99]]></title>
+		<link>https://www.boardstore.com.au/vans-youth-slip-on-classic-color-theory-checkerboa~1234386</link>
+		<guid isPermaLink="false"><![CDATA[VN000EABTD8.GRN.]]></guid>
+		<description><![CDATA[Vans - $79.99]]></description>
+		<category><![CDATA[Vans]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/VN000EABTD8.GRN..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Adidas Adilette 22 Grey/Light Brown - $89.99]]></title>
+		<link>https://www.boardstore.com.au/adidas-adilette-22-grey-light-brown</link>
+		<guid isPermaLink="false"><![CDATA[HQ4570.]]></guid>
+		<description><![CDATA[Adidas - $89.99]]></description>
+		<category><![CDATA[Thongs & Slides]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/HQ4570..png" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[DC Stag Tan/Gum - $119.99]]></title>
+		<link>https://www.boardstore.com.au/dc-stag-tan-gum</link>
+		<guid isPermaLink="false"><![CDATA[320188-260.]]></guid>
+		<description><![CDATA[DC - $119.99]]></description>
+		<category><![CDATA[DC]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/320188-260..jpg" medium="image" />
+	</item>
+	<item>
 		<title><![CDATA[Blind Complete Shroom Land 8.125 Inch Width - $139.99]]></title>
 		<link>https://www.boardstore.com.au/blind-complete-shroom-land-8.125-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[10511554.PNK]]></guid>
 		<description><![CDATA[Blind - $139.99]]></description>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/10511554.PNK.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Foundation Deck 8.5 Push Colour - $129.99]]></title>
+		<link>https://www.boardstore.com.au/foundation-deck-8.5-push-colour</link>
+		<guid isPermaLink="false"><![CDATA[foudec.20.pc.8.5]]></guid>
+		<description><![CDATA[Foundation - $129.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/foudec.20.pc.8.5.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Foundation Beanie Whippersnappers Black - $59.99]]></title>
+		<link>https://www.boardstore.com.au/foundation-beanie-whippersnappers-black</link>
+		<guid isPermaLink="false"><![CDATA[fouhat.263.whip]]></guid>
+		<description><![CDATA[Foundation - $59.99]]></description>
+		<category><![CDATA[Beanies]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/fouhat.263.whip.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Globe Complete Goodstock Mid Wheat Yellow 7.6 Inch Width - $149.99]]></title>
+		<link>https://www.boardstore.com.au/globe-complete-goodstock-mid-wheat-yellow-7.6-inch</link>
+		<guid isPermaLink="false"><![CDATA[10525351Y.MW]]></guid>
+		<description><![CDATA[Globe - $149.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/10525351Y.MW.png" medium="image" />
 	</item>
 	<item>
 		<title><![CDATA[Dogtown Hoodie Mono Logo Navy - $119.99]]></title>
@@ -254,78 +326,6 @@
 		<description><![CDATA[Globe - $49.99]]></description>
 		<category><![CDATA[Knee Pads]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/12025004..jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Slappy Trucks ST1 X Bam Hollow 8.5 Inch Width - $129.99]]></title>
-		<link>https://www.boardstore.com.au/slappy-trucks-st1-x-bam-hollow-8.5-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[SLP530045.8.5]]></guid>
-		<description><![CDATA[Slappy - $129.99]]></description>
-		<category><![CDATA[Trucks Skateboards]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/SLP530045.8.5.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Slappy Trucks ST1 X Bam Hollow 9.0 Inch Width - $129.99]]></title>
-		<link>https://www.boardstore.com.au/slappy-trucks-st1-x-bam-hollow-9.0-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[SLP530045.9.0]]></guid>
-		<description><![CDATA[Slappy - $129.99]]></description>
-		<category><![CDATA[Trucks Skateboards]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/SLP530045.9.0.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Real Deck Jimmy Wilkins How Are You 8.5 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/real-deck-jimmy-wilkins-how-are-you-8.5-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[001008326]]></guid>
-		<description><![CDATA[Real Skateboards - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/001008326.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Real Deck Kyle Walker Cerberus 8.25 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/real-deck-kyle-walker-cerberus-8.25-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[001008327]]></guid>
-		<description><![CDATA[Real Skateboards - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/001008327.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Antihero Deck Kenji Goto Eagle 8.06 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/antihero-deck-kenji-goto-eagle-8.06-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[002013196]]></guid>
-		<description><![CDATA[Antihero - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/002013196.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Antihero Deck Kenji Goto Eagle 8.5 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/antihero-deck-kenji-goto-eagle-8.5-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[002013197]]></guid>
-		<description><![CDATA[Antihero - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/002013197.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Antihero Deck Chris Pfanner Mas Finas 8.38 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/antihero-deck-chris-pfanner-mas-finas-8.38-inch-wi</link>
-		<guid isPermaLink="false"><![CDATA[002013200]]></guid>
-		<description><![CDATA[Antihero - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/002013200.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Antihero Deck Victor Pellegrin Mas Finas Doobie 8.69 Inch Width - $139.99]]></title>
-		<link>https://www.boardstore.com.au/antihero-deck-victor-pellegrin-mas-finas-doobie-8</link>
-		<guid isPermaLink="false"><![CDATA[002013201]]></guid>
-		<description><![CDATA[Antihero - $139.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/002013201.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Krooked Deck Andrew Wilson Zipp Zogger 10.75 Inch Width - $149.99]]></title>
-		<link>https://www.boardstore.com.au/krooked-deck-andrew-wilson-zipp-zogger-10.75-inch</link>
-		<guid isPermaLink="false"><![CDATA[003008004]]></guid>
-		<description><![CDATA[Krooked - $149.99]]></description>
-		<category><![CDATA[Old School & Shaped]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/003008004.webp" medium="image" />
 	</item>
 </channel>
 </rss>
