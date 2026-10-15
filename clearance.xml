@@ -5,7 +5,7 @@
 	<link>https://www.boardstore.com.au/clearance/</link>
 	<description>Clearance stock at Boardstore, cheapest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Wed, 14 Oct 2026 08:10:57 +1000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Oct 2026 07:58:46 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/clearance.xml" rel="self" type="application/rss+xml" />
 	<item>
 		<title><![CDATA[Traffic Beanie Script Royal - $20.00]]></title>
@@ -38,7 +38,6 @@
 		<description><![CDATA[Eternal Skateboards - $23.99 - was $39.99 - 40% off]]></description>
 		<wasPrice>39.99</wasPrice>
 		<discountPercent>40</discountPercent>
-		<category><![CDATA[Short Sleeve]]></category>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Short Sleeve]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
