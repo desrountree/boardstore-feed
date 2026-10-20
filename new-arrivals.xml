@@ -5,325 +5,445 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Tue, 20 Oct 2026 07:20:08 +1000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Oct 2026 08:16:42 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
 	<item>
-		<title><![CDATA[Nike SB Janoski Zoom OG+ Black/White/Gum - $149.99]]></title>
+		<title><![CDATA[Nike SB Janoski Zoom OG+ Black/White/Gum - $127.49]]></title>
 		<link>https://www.boardstore.com.au/nike-sb-janoski-zoom-og-black-white-gum</link>
 		<guid isPermaLink="false"><![CDATA[FD6757-007.]]></guid>
-		<description><![CDATA[Nike SB - $149.99]]></description>
+		<description><![CDATA[Nike SB - $127.49]]></description>
+		<wasPrice>149.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Nike SB]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/FD6757-007..jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Nike SB Janoski Zoom OG+ Black/White - $149.99]]></title>
+		<title><![CDATA[Nike SB Janoski Zoom OG+ Black/White - $127.49]]></title>
 		<link>https://www.boardstore.com.au/nike-sb-janoski-zoom-og-black-white</link>
 		<guid isPermaLink="false"><![CDATA[FD6757-001.]]></guid>
-		<description><![CDATA[Nike SB - $149.99]]></description>
+		<description><![CDATA[Nike SB - $127.49]]></description>
+		<wasPrice>149.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Nike SB]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/FD6757-001..jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Nike SB Chron 2 Fauna Brown/Desert Dust - $109.99]]></title>
+		<title><![CDATA[Nike SB Chron 2 Fauna Brown/Desert Dust - $93.49]]></title>
 		<link>https://www.boardstore.com.au/nike-sb-chron-2-fauna-brown-desert-dust</link>
 		<guid isPermaLink="false"><![CDATA[DM3493-206.]]></guid>
-		<description><![CDATA[Nike SB - $109.99]]></description>
+		<description><![CDATA[Nike SB - $93.49]]></description>
+		<wasPrice>109.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Nike SB]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/DM3493-206..jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Nike SB Code 58 Dark Smoke Grey/Blue Eclipse - $139.99]]></title>
+		<title><![CDATA[Nike SB Code 58 Dark Smoke Grey/Blue Eclipse - $118.99]]></title>
 		<link>https://www.boardstore.com.au/nike-sb-code-58-dark-smoke-grey-blue-eclipse</link>
 		<guid isPermaLink="false"><![CDATA[IB0108-002.]]></guid>
-		<description><![CDATA[Nike SB - $139.99]]></description>
+		<description><![CDATA[Nike SB - $118.99]]></description>
+		<wasPrice>139.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Nike SB]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/IB0108-002..jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Nike SB Force 58 Shadow Brown/Burgundy Ash - $109.99]]></title>
+		<title><![CDATA[Nike SB Force 58 Shadow Brown/Burgundy Ash - $93.49]]></title>
 		<link>https://www.boardstore.com.au/nike-sb-force-58-shadow-brown-burgundy-ash</link>
 		<guid isPermaLink="false"><![CDATA[DV5477-204.]]></guid>
-		<description><![CDATA[Nike SB - $109.99]]></description>
+		<description><![CDATA[Nike SB - $93.49]]></description>
+		<wasPrice>109.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Nike SB]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/DV5477-204..jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Vans Youth Slip-On Classic Color Theory Checkerboard Oil Green - $79.99]]></title>
+		<title><![CDATA[Vans Youth Slip-On Classic Color Theory Checkerboard Oil Green - $67.99]]></title>
 		<link>https://www.boardstore.com.au/vans-youth-slip-on-classic-color-theory-checkerboa~1234386</link>
 		<guid isPermaLink="false"><![CDATA[VN000EABTD8.GRN.]]></guid>
-		<description><![CDATA[Vans - $79.99]]></description>
+		<description><![CDATA[Vans - $67.99]]></description>
+		<wasPrice>79.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Vans]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/VN000EABTD8.GRN..jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Adidas Adilette 22 Grey/Light Brown - $89.99]]></title>
+		<title><![CDATA[Adidas Adilette 22 Grey/Light Brown - $76.49]]></title>
 		<link>https://www.boardstore.com.au/adidas-adilette-22-grey-light-brown</link>
 		<guid isPermaLink="false"><![CDATA[HQ4570.]]></guid>
-		<description><![CDATA[Adidas - $89.99]]></description>
+		<description><![CDATA[Adidas - $76.49]]></description>
+		<wasPrice>89.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Thongs & Slides]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/HQ4570..png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[DC Stag Tan/Gum - $119.99]]></title>
+		<title><![CDATA[DC Stag Tan/Gum - $101.99]]></title>
 		<link>https://www.boardstore.com.au/dc-stag-tan-gum</link>
 		<guid isPermaLink="false"><![CDATA[320188-260.]]></guid>
-		<description><![CDATA[DC - $119.99]]></description>
+		<description><![CDATA[DC - $101.99]]></description>
+		<wasPrice>119.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[DC]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/320188-260..jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Blind Complete Shroom Land 8.125 Inch Width - $139.99]]></title>
+		<title><![CDATA[Blind Complete Shroom Land 8.125 Inch Width - $118.99]]></title>
 		<link>https://www.boardstore.com.au/blind-complete-shroom-land-8.125-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[10511554.PNK]]></guid>
-		<description><![CDATA[Blind - $139.99]]></description>
+		<description><![CDATA[Blind - $118.99]]></description>
+		<wasPrice>139.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/10511554.PNK.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Foundation Deck 8.5 Push Colour - $129.99]]></title>
+		<title><![CDATA[Foundation Deck 8.5 Push Colour - $110.49]]></title>
 		<link>https://www.boardstore.com.au/foundation-deck-8.5-push-colour</link>
 		<guid isPermaLink="false"><![CDATA[foudec.20.pc.8.5]]></guid>
-		<description><![CDATA[Foundation - $129.99]]></description>
+		<description><![CDATA[Foundation - $110.49]]></description>
+		<wasPrice>129.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/foudec.20.pc.8.5.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Foundation Beanie Whippersnappers Black - $59.99]]></title>
+		<title><![CDATA[Foundation Beanie Whippersnappers Black - $50.99]]></title>
 		<link>https://www.boardstore.com.au/foundation-beanie-whippersnappers-black</link>
 		<guid isPermaLink="false"><![CDATA[fouhat.263.whip]]></guid>
-		<description><![CDATA[Foundation - $59.99]]></description>
+		<description><![CDATA[Foundation - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Beanies]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/fouhat.263.whip.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Globe Complete Goodstock Mid Wheat Yellow 7.6 Inch Width - $149.99]]></title>
+		<title><![CDATA[Globe Complete Goodstock Mid Wheat Yellow 7.6 Inch Width - $127.49]]></title>
 		<link>https://www.boardstore.com.au/globe-complete-goodstock-mid-wheat-yellow-7.6-inch</link>
 		<guid isPermaLink="false"><![CDATA[10525351Y.MW]]></guid>
-		<description><![CDATA[Globe - $149.99]]></description>
+		<description><![CDATA[Globe - $127.49]]></description>
+		<wasPrice>149.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/10525351Y.MW.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Dogtown Hoodie Mono Logo Navy - $119.99]]></title>
+		<title><![CDATA[Dogtown Hoodie Mono Logo Navy - $101.99]]></title>
 		<link>https://www.boardstore.com.au/dogtown-hoodie-mono-logo-navy</link>
 		<guid isPermaLink="false"><![CDATA[dogwin.p.mlnw]]></guid>
-		<description><![CDATA[Dogtown - $119.99]]></description>
+		<description><![CDATA[Dogtown - $101.99]]></description>
+		<wasPrice>119.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Jumpers]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/dogwin.p.mlnw.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Dogtown Tee Gonz 2 Navy - $59.99]]></title>
+		<title><![CDATA[Dogtown Tee Gonz 2 Navy - $50.99]]></title>
 		<link>https://www.boardstore.com.au/dogtown-tee-gonz-2-navy</link>
 		<guid isPermaLink="false"><![CDATA[dogtee.p.gn]]></guid>
-		<description><![CDATA[Dogtown - $59.99]]></description>
+		<description><![CDATA[Dogtown - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/dogtee.p.gn.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Dogtown Tee Gonz 2 Black/White - $59.99]]></title>
+		<title><![CDATA[Dogtown Tee Gonz 2 Black/White - $50.99]]></title>
 		<link>https://www.boardstore.com.au/dogtown-tee-gonz-2-black-white</link>
 		<guid isPermaLink="false"><![CDATA[dogtee.p.gbw]]></guid>
-		<description><![CDATA[Dogtown - $59.99]]></description>
+		<description><![CDATA[Dogtown - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/dogtee.p.gbw.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Pile Khaki - $59.99]]></title>
+		<title><![CDATA[Ace Tee Pile Khaki - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-pile-khaki</link>
 		<guid isPermaLink="false"><![CDATA[acetee.03.09]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.03.09.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Pile White - $59.99]]></title>
+		<title><![CDATA[Ace Tee Pile White - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-pile-white</link>
 		<guid isPermaLink="false"><![CDATA[acetee.03.08]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.03.08.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Meme Bright Royal - $59.99]]></title>
+		<title><![CDATA[Ace Tee Meme Bright Royal - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-meme-bright-royal</link>
 		<guid isPermaLink="false"><![CDATA[acetee.03.07]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.03.07.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Meme Navy - $59.99]]></title>
+		<title><![CDATA[Ace Tee Meme Navy - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-meme-navy</link>
 		<guid isPermaLink="false"><![CDATA[acetee.03.04]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.03.04.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Hotbox Black - $59.99]]></title>
+		<title><![CDATA[Ace Tee Hotbox Black - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-hotbox-black</link>
 		<guid isPermaLink="false"><![CDATA[acetee.03.03]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.03.03.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Combust Navy - $59.99]]></title>
+		<title><![CDATA[Ace Tee Combust Navy - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-combust-navy</link>
 		<guid isPermaLink="false"><![CDATA[acetee.03.02]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.03.02.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Sunrise White - $59.99]]></title>
+		<title><![CDATA[Ace Tee Sunrise White - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-sunrise-white</link>
 		<guid isPermaLink="false"><![CDATA[acetee.02.15]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.02.15.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Burnout Walnut - $59.99]]></title>
+		<title><![CDATA[Ace Tee Burnout Walnut - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-burnout-walnut</link>
 		<guid isPermaLink="false"><![CDATA[acetee.02.10]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.02.10.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Burnout Coal - $59.99]]></title>
+		<title><![CDATA[Ace Tee Burnout Coal - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-burnout-coal</link>
 		<guid isPermaLink="false"><![CDATA[acetee.02.09]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.02.09.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Left Chest Rings Black - $59.99]]></title>
+		<title><![CDATA[Ace Tee Left Chest Rings Black - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-left-chest-rings-black</link>
 		<guid isPermaLink="false"><![CDATA[acetee.02.08]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.02.08.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Left Chest Rings White - $59.99]]></title>
+		<title><![CDATA[Ace Tee Left Chest Rings White - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-left-chest-rings-white</link>
 		<guid isPermaLink="false"><![CDATA[acetee.02.07]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.02.07.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Big Rings Black - $59.99]]></title>
+		<title><![CDATA[Ace Tee Big Rings Black - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-big-rings-black</link>
 		<guid isPermaLink="false"><![CDATA[acetee.02.06]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.02.06.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Big Rings White - $59.99]]></title>
+		<title><![CDATA[Ace Tee Big Rings White - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-big-rings-white</link>
 		<guid isPermaLink="false"><![CDATA[acetee.02.05]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.02.05.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Speedway Red - $59.99]]></title>
+		<title><![CDATA[Ace Tee Speedway Red - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-speedway-red</link>
 		<guid isPermaLink="false"><![CDATA[acetee.02.04]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.02.04.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Speedway Navy - $59.99]]></title>
+		<title><![CDATA[Ace Tee Speedway Navy - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-speedway-navy</link>
 		<guid isPermaLink="false"><![CDATA[acetee.02.03]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.02.03.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Dragster Grey Marle - $59.99]]></title>
+		<title><![CDATA[Ace Tee Dragster Grey Marle - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-dragster-grey-marle</link>
 		<guid isPermaLink="false"><![CDATA[acetee.02.02]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.02.02.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Tee Dragster White - $59.99]]></title>
+		<title><![CDATA[Ace Tee Dragster White - $50.99]]></title>
 		<link>https://www.boardstore.com.au/ace-tee-dragster-white</link>
 		<guid isPermaLink="false"><![CDATA[acetee.02.01]]></guid>
-		<description><![CDATA[Ace - $59.99]]></description>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.02.01.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Foundation Deck 8.25 Star & Moon Green - $129.99]]></title>
+		<title><![CDATA[Foundation Deck 8.25 Star & Moon Green - $110.49]]></title>
 		<link>https://www.boardstore.com.au/foundation-deck-8.25-star-moon-green</link>
 		<guid isPermaLink="false"><![CDATA[foudec.01.smg.8.2]]></guid>
-		<description><![CDATA[Foundation - $129.99]]></description>
+		<description><![CDATA[Foundation - $110.49]]></description>
+		<wasPrice>129.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/foudec.01.smg.8.2.webp" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Foundation Deck 8.5 Star & Moon Pink - $129.99]]></title>
+		<title><![CDATA[Foundation Deck 8.5 Star & Moon Pink - $110.49]]></title>
 		<link>https://www.boardstore.com.au/foundation-deck-8.5-star-moon-pink</link>
 		<guid isPermaLink="false"><![CDATA[foudec.01.smp.8.5]]></guid>
-		<description><![CDATA[Foundation - $129.99]]></description>
+		<description><![CDATA[Foundation - $110.49]]></description>
+		<wasPrice>129.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/foudec.01.smp.8.5.webp" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Foundation Deck 8.25 Radiate 2 - $129.99]]></title>
+		<title><![CDATA[Foundation Deck 8.25 Radiate 2 - $110.49]]></title>
 		<link>https://www.boardstore.com.au/foundation-deck-8.25-radiate-2</link>
 		<guid isPermaLink="false"><![CDATA[foudec.16.r2.8.2]]></guid>
-		<description><![CDATA[Foundation - $129.99]]></description>
+		<description><![CDATA[Foundation - $110.49]]></description>
+		<wasPrice>129.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/foudec.16.r2.8.2.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Foundation Deck 8.5 Radiate 2 - $129.99]]></title>
+		<title><![CDATA[Foundation Deck 8.5 Radiate 2 - $110.49]]></title>
 		<link>https://www.boardstore.com.au/foundation-deck-8.5-radiate-2</link>
 		<guid isPermaLink="false"><![CDATA[foudec.16.r2.8.5]]></guid>
-		<description><![CDATA[Foundation - $129.99]]></description>
+		<description><![CDATA[Foundation - $110.49]]></description>
+		<wasPrice>129.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/foudec.16.r2.8.5.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Foundation Deck 7.38 Whippersnapper Assorted MINI - $129.99]]></title>
+		<title><![CDATA[Foundation Deck 7.38 Whippersnapper Assorted MINI - $110.49]]></title>
 		<link>https://www.boardstore.com.au/foundation-deck-7.38-whippersnapper-assorted-mini</link>
 		<guid isPermaLink="false"><![CDATA[foudec.18.ws.7.3]]></guid>
-		<description><![CDATA[Foundation - $129.99]]></description>
+		<description><![CDATA[Foundation - $110.49]]></description>
+		<wasPrice>129.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/foudec.18.ws.7.3.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Foundation Deck 8.0 Whippersnapper Assorted - $119.99]]></title>
+		<title><![CDATA[Foundation Deck 8.0 Whippersnapper Assorted - $101.99]]></title>
 		<link>https://www.boardstore.com.au/foundation-deck-8.0-whippersnapper-assorted</link>
 		<guid isPermaLink="false"><![CDATA[foudec.18.ws.8.0]]></guid>
-		<description><![CDATA[Foundation - $119.99]]></description>
+		<description><![CDATA[Foundation - $101.99]]></description>
+		<wasPrice>119.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/foudec.18.ws.8.0.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Foundation Deck 8.5 Whippersnapper Assorted - $129.99]]></title>
+		<title><![CDATA[Foundation Deck 8.5 Whippersnapper Assorted - $110.49]]></title>
 		<link>https://www.boardstore.com.au/foundation-deck-8.5-whippersnapper-assorted</link>
 		<guid isPermaLink="false"><![CDATA[foudec.18.ws.8.5]]></guid>
-		<description><![CDATA[Foundation - $129.99]]></description>
+		<description><![CDATA[Foundation - $110.49]]></description>
+		<wasPrice>129.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/foudec.18.ws.8.5.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Globe Goodstock Knee Pad Set Matte Black - $49.99]]></title>
+		<title><![CDATA[Globe Goodstock Knee Pad Set Matte Black - $42.49]]></title>
 		<link>https://www.boardstore.com.au/globe-goodstock-knee-pad-set-matte-black</link>
 		<guid isPermaLink="false"><![CDATA[12025004.]]></guid>
-		<description><![CDATA[Globe - $49.99]]></description>
+		<description><![CDATA[Globe - $42.49]]></description>
+		<wasPrice>49.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Knee Pads]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/12025004..jpg" medium="image" />
 	</item>
