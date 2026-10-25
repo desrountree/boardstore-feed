@@ -5,7 +5,7 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Fri, 23 Oct 2026 07:39:48 +1000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Oct 2026 07:59:29 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
 	<item>
 		<title><![CDATA[Krooked Sticker Wildstyle Flower medium Assorted Colours - $4.00]]></title>
@@ -159,14 +159,6 @@
 		<description><![CDATA[Zero - $159.99]]></description>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/11127.8.2.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Zero Deck Inch Blood Skull 8.5 Inch Width - $149.99]]></title>
-		<link>https://www.boardstore.com.au/zero-deck-inch-blood-skull-8.5-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[10823.8.5]]></guid>
-		<description><![CDATA[Zero - $149.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/10823.8.5.jpg" medium="image" />
 	</item>
 	<item>
 		<title><![CDATA[Nike SB Janoski Zoom OG+ Black/White/Gum - $127.49]]></title>
@@ -387,6 +379,17 @@
 		<category><![CDATA[Short Sleeve]]></category>
 		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.03.03.png" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Ace Tee Combust Navy - $50.99]]></title>
+		<link>https://www.boardstore.com.au/ace-tee-combust-navy</link>
+		<guid isPermaLink="false"><![CDATA[acetee.03.02]]></guid>
+		<description><![CDATA[Ace - $50.99]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.03.02.png" medium="image" />
 	</item>
 </channel>
 </rss>
