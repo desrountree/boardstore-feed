@@ -5,7 +5,7 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Wed, 28 Oct 2026 07:20:08 +1000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Oct 2026 09:58:01 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
 	<item>
 		<title><![CDATA[Krooked Sticker Wildstyle Flower medium Assorted Colours - $4.00]]></title>
@@ -96,6 +96,14 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/005010595.jpg" medium="image" />
 	</item>
 	<item>
+		<title><![CDATA[New Balance NB Numeric 440v2 YLB Pumpernickel/Black - $149.99]]></title>
+		<link>https://www.boardstore.com.au/new-balance-nb-numeric-440v2-ylb-pumpernickel-blac</link>
+		<guid isPermaLink="false"><![CDATA[440v2-YLB.]]></guid>
+		<description><![CDATA[New Balance - $149.99]]></description>
+		<category><![CDATA[New Balance]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/440v2-YLB..jpg" medium="image" />
+	</item>
+	<item>
 		<title><![CDATA[Globe Complete Scarper Rosewood Peaks 36 Inch Length - $349.99]]></title>
 		<link>https://www.boardstore.com.au/globe-complete-scarper-rosewood-peaks-36-inch-leng</link>
 		<guid isPermaLink="false"><![CDATA[10525501.SCAR]]></guid>
@@ -159,6 +167,14 @@
 		<description><![CDATA[Zero - $159.99]]></description>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/11127.8.2.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Cockroach Roach Pods Riser Pads Clear - $25.00]]></title>
+		<link>https://www.boardstore.com.au/cockroach-roach-pods-riser-pads-clear</link>
+		<guid isPermaLink="false"><![CDATA[RBCLEA]]></guid>
+		<description><![CDATA[Cockroach - $25.00]]></description>
+		<category><![CDATA[Riser Pads]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/RBCLEA.jpg" medium="image" />
 	</item>
 	<item>
 		<title><![CDATA[Nike SB Janoski Zoom OG+ Black/White/Gum - $127.49]]></title>
@@ -368,28 +384,6 @@
 		<category><![CDATA[Short Sleeve]]></category>
 		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.03.04.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Ace Tee Hotbox Black - $50.99]]></title>
-		<link>https://www.boardstore.com.au/ace-tee-hotbox-black</link>
-		<guid isPermaLink="false"><![CDATA[acetee.03.03]]></guid>
-		<description><![CDATA[Ace - $50.99]]></description>
-		<wasPrice>59.99</wasPrice>
-		<discountPercent>15</discountPercent>
-		<category><![CDATA[Short Sleeve]]></category>
-		<category><![CDATA[Sale]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.03.03.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Ace Tee Combust Navy - $50.99]]></title>
-		<link>https://www.boardstore.com.au/ace-tee-combust-navy</link>
-		<guid isPermaLink="false"><![CDATA[acetee.03.02]]></guid>
-		<description><![CDATA[Ace - $50.99]]></description>
-		<wasPrice>59.99</wasPrice>
-		<discountPercent>15</discountPercent>
-		<category><![CDATA[Short Sleeve]]></category>
-		<category><![CDATA[Sale]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.03.02.png" medium="image" />
 	</item>
 </channel>
 </rss>
