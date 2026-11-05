@@ -5,8 +5,30 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Mon, 02 Nov 2026 09:46:16 +1000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Nov 2026 07:39:07 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[Trinity Pads Youth Wrist Guards 2.0 - $16.99]]></title>
+		<link>https://www.boardstore.com.au/trinity-pads-youth-wrist-guards-2.0</link>
+		<guid isPermaLink="false"><![CDATA[tripad.w.youth]]></guid>
+		<description><![CDATA[$16.99]]></description>
+		<wasPrice>19.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Wrist Guards]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/tripad.w.youth.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Vans Skate Half Cab Wafflecup Black/White - $144.49]]></title>
+		<link>https://www.boardstore.com.au/vans-skate-half-cab-wafflecup-black-white</link>
+		<guid isPermaLink="false"><![CDATA[VN000D9ZBA2.BKW.]]></guid>
+		<description><![CDATA[Vans - $144.49]]></description>
+		<wasPrice>169.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Vans]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/VN000D9ZBA2.BKW..png" medium="image" />
+	</item>
 	<item>
 		<title><![CDATA[Krooked Sticker Wildstyle Flower medium Assorted Colours - $4.00]]></title>
 		<link>https://www.boardstore.com.au/krooked-sticker-wildstyle-flower-medium-assorted-c</link>
@@ -177,6 +199,38 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/RBCLEA.jpg" medium="image" />
 	</item>
 	<item>
+		<title><![CDATA[Cockroach Roach Rails Black - $29.99]]></title>
+		<link>https://www.boardstore.com.au/cockroach-roach-rails-black</link>
+		<guid isPermaLink="false"><![CDATA[RRBLAC]]></guid>
+		<description><![CDATA[Cockroach - $29.99]]></description>
+		<category><![CDATA[Rails & Tail Bones]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/RRBLAC.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Cockroach Roach Rails Blue - $29.99]]></title>
+		<link>https://www.boardstore.com.au/cockroach-roach-rails-blue</link>
+		<guid isPermaLink="false"><![CDATA[RRBLUE]]></guid>
+		<description><![CDATA[Cockroach - $29.99]]></description>
+		<category><![CDATA[Rails & Tail Bones]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/RRBLUE.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Cockroach Roach Rails White - $29.99]]></title>
+		<link>https://www.boardstore.com.au/cockroach-roach-rails-white</link>
+		<guid isPermaLink="false"><![CDATA[RRWHIT]]></guid>
+		<description><![CDATA[Cockroach - $29.99]]></description>
+		<category><![CDATA[Rails & Tail Bones]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/RRWHIT.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Cockroach Roach Rails Yellow - $29.99]]></title>
+		<link>https://www.boardstore.com.au/cockroach-roach-rails-yellow</link>
+		<guid isPermaLink="false"><![CDATA[RRYELL]]></guid>
+		<description><![CDATA[Cockroach - $29.99]]></description>
+		<category><![CDATA[Rails & Tail Bones]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/RRYELL.jpg" medium="image" />
+	</item>
+	<item>
 		<title><![CDATA[Nike SB Janoski Zoom OG+ Black/White/Gum - $127.49]]></title>
 		<link>https://www.boardstore.com.au/nike-sb-janoski-zoom-og-black-white-gum</link>
 		<guid isPermaLink="false"><![CDATA[FD6757-007.]]></guid>
@@ -318,72 +372,6 @@
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Jumpers]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/dogwin.p.mlnw.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Dogtown Tee Gonz 2 Navy - $50.99]]></title>
-		<link>https://www.boardstore.com.au/dogtown-tee-gonz-2-navy</link>
-		<guid isPermaLink="false"><![CDATA[dogtee.p.gn]]></guid>
-		<description><![CDATA[Dogtown - $50.99]]></description>
-		<wasPrice>59.99</wasPrice>
-		<discountPercent>15</discountPercent>
-		<category><![CDATA[Short Sleeve]]></category>
-		<category><![CDATA[Sale]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/dogtee.p.gn.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Dogtown Tee Gonz 2 Black/White - $50.99]]></title>
-		<link>https://www.boardstore.com.au/dogtown-tee-gonz-2-black-white</link>
-		<guid isPermaLink="false"><![CDATA[dogtee.p.gbw]]></guid>
-		<description><![CDATA[Dogtown - $50.99]]></description>
-		<wasPrice>59.99</wasPrice>
-		<discountPercent>15</discountPercent>
-		<category><![CDATA[Short Sleeve]]></category>
-		<category><![CDATA[Sale]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/dogtee.p.gbw.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Ace Tee Pile Khaki - $50.99]]></title>
-		<link>https://www.boardstore.com.au/ace-tee-pile-khaki</link>
-		<guid isPermaLink="false"><![CDATA[acetee.03.09]]></guid>
-		<description><![CDATA[Ace - $50.99]]></description>
-		<wasPrice>59.99</wasPrice>
-		<discountPercent>15</discountPercent>
-		<category><![CDATA[Short Sleeve]]></category>
-		<category><![CDATA[Sale]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.03.09.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Ace Tee Pile White - $50.99]]></title>
-		<link>https://www.boardstore.com.au/ace-tee-pile-white</link>
-		<guid isPermaLink="false"><![CDATA[acetee.03.08]]></guid>
-		<description><![CDATA[Ace - $50.99]]></description>
-		<wasPrice>59.99</wasPrice>
-		<discountPercent>15</discountPercent>
-		<category><![CDATA[Short Sleeve]]></category>
-		<category><![CDATA[Sale]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.03.08.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Ace Tee Meme Bright Royal - $50.99]]></title>
-		<link>https://www.boardstore.com.au/ace-tee-meme-bright-royal</link>
-		<guid isPermaLink="false"><![CDATA[acetee.03.07]]></guid>
-		<description><![CDATA[Ace - $50.99]]></description>
-		<wasPrice>59.99</wasPrice>
-		<discountPercent>15</discountPercent>
-		<category><![CDATA[Short Sleeve]]></category>
-		<category><![CDATA[Sale]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.03.07.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Ace Tee Meme Navy - $50.99]]></title>
-		<link>https://www.boardstore.com.au/ace-tee-meme-navy</link>
-		<guid isPermaLink="false"><![CDATA[acetee.03.04]]></guid>
-		<description><![CDATA[Ace - $50.99]]></description>
-		<wasPrice>59.99</wasPrice>
-		<discountPercent>15</discountPercent>
-		<category><![CDATA[Short Sleeve]]></category>
-		<category><![CDATA[Sale]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/acetee.03.04.png" medium="image" />
 	</item>
 </channel>
 </rss>
