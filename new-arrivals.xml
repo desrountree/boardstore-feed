@@ -5,7 +5,7 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Wed, 11 Nov 2026 07:20:06 +1000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Nov 2026 07:20:07 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
 	<item>
 		<title><![CDATA[Ace Bolts 1 inch Allen Gold - $14.99]]></title>
@@ -89,6 +89,39 @@
 		<category><![CDATA[Short Sleeve]]></category>
 		<category><![CDATA[Sale]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/P.T.SPRIN.WM..png" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Ichpig Tee Strike Logo Royal/White - $55.24]]></title>
+		<link>https://www.boardstore.com.au/ichpig-tee-strike-logo-royal-white</link>
+		<guid isPermaLink="false"><![CDATA[IP.T.STRKLG.ROYW.]]></guid>
+		<description><![CDATA[Ichpig - $55.24]]></description>
+		<wasPrice>64.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/IP.T.STRKLG.ROYW..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Ichpig Tee Strike Logo Espresso/White - $55.24]]></title>
+		<link>https://www.boardstore.com.au/ichpig-tee-strike-logo-espresso-white</link>
+		<guid isPermaLink="false"><![CDATA[IP.T.STRKLG.ESPW.]]></guid>
+		<description><![CDATA[Ichpig - $55.24]]></description>
+		<wasPrice>64.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/IP.T.STRKLG.ESPW..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Ichpig Shorts Nylon Field Black/White - $97.74]]></title>
+		<link>https://www.boardstore.com.au/ichpig-shorts-nylon-field-black-white</link>
+		<guid isPermaLink="false"><![CDATA[IP.SHO.NYLFIELD.BW.]]></guid>
+		<description><![CDATA[Ichpig - $97.74]]></description>
+		<wasPrice>114.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Walkshorts]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/IP.SHO.NYLFIELD.BW..png" medium="image" />
 	</item>
 	<item>
 		<title><![CDATA[Project Grind Rail Round 6 Foot Orange - $199.99]]></title>
@@ -254,6 +287,14 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/acesti.26.04.2.png" medium="image" />
 	</item>
 	<item>
+		<title><![CDATA[Asics Japan Pro Forest Moss/Black - $179.99]]></title>
+		<link>https://www.boardstore.com.au/asics-japan-pro-forest-moss-black</link>
+		<guid isPermaLink="false"><![CDATA[1203B203-301.]]></guid>
+		<description><![CDATA[Asics - $179.99]]></description>
+		<category><![CDATA[asics]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/1203B203-301..jpg" medium="image" />
+	</item>
+	<item>
 		<title><![CDATA[Vans Skate Half Cab Wafflecup Black/White - $144.49]]></title>
 		<link>https://www.boardstore.com.au/vans-skate-half-cab-wafflecup-black-white</link>
 		<guid isPermaLink="false"><![CDATA[VN000D9ZBA2.BKW.]]></guid>
@@ -281,60 +322,31 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/fatboy.charger.48v.v1.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[fatboy V3 4 Piston Brake Pads - $35.00]]></title>
-		<link>https://www.boardstore.com.au/fatboy-v3-4-piston-brake-pads</link>
-		<guid isPermaLink="false"><![CDATA[fatboy.v3.pad.gld]]></guid>
-		<description><![CDATA[fatboy - $35.00]]></description>
-		<category><![CDATA[Accessories]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/fatboy.v3.pad.gld.jpg" medium="image" />
+		<title><![CDATA[Vans Skate Loafer Suede Black/Black - $135.99]]></title>
+		<link>https://www.boardstore.com.au/vans-skate-loafer-suede-black-black</link>
+		<guid isPermaLink="false"><![CDATA[VN000VA6BKA.BLK.]]></guid>
+		<description><![CDATA[Vans - $135.99]]></description>
+		<wasPrice>159.99</wasPrice>
+		<discountPercent>15</discountPercent>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Vans]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/VN000VA6BKA.BLK..jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Krooked Sticker Wildstyle Flower medium Assorted Colours - $4.00]]></title>
-		<link>https://www.boardstore.com.au/krooked-sticker-wildstyle-flower-medium-assorted-c</link>
-		<guid isPermaLink="false"><![CDATA[003001126]]></guid>
-		<description><![CDATA[Krooked - $4.00]]></description>
-		<category><![CDATA[Stickers]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/003001126.jpg" medium="image" />
+		<title><![CDATA[New Balance NB Numeric 417 Low GS Charcoal/Black - $159.99]]></title>
+		<link>https://www.boardstore.com.au/new-balance-nb-numeric-417-low-gs-charcoal-black</link>
+		<guid isPermaLink="false"><![CDATA[N417LGS.]]></guid>
+		<description><![CDATA[New Balance - $159.99]]></description>
+		<category><![CDATA[New Balance]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/N417LGS..jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Spitfire Hat Bighead Snapback Black/White - $59.99]]></title>
-		<link>https://www.boardstore.com.au/spitfire-hat-bighead-snapback-black-white</link>
-		<guid isPermaLink="false"><![CDATA[005010171]]></guid>
-		<description><![CDATA[Spitfire - $59.99]]></description>
-		<category><![CDATA[Caps]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/005010171.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Spitfire Hat Bighead Snapback Black/White - $59.99]]></title>
-		<link>https://www.boardstore.com.au/spitfire-hat-bighead-snapback-black-white~1336557</link>
-		<guid isPermaLink="false"><![CDATA[005010589]]></guid>
-		<description><![CDATA[Spitfire - $59.99]]></description>
-		<category><![CDATA[Caps]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/005010589.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Creature Hat Trucker Logo Black/Green - $59.99]]></title>
-		<link>https://www.boardstore.com.au/creature-hat-trucker-logo-black-green</link>
-		<guid isPermaLink="false"><![CDATA[092010002]]></guid>
-		<description><![CDATA[Creature - $59.99]]></description>
-		<category><![CDATA[Caps]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/092010002.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Creature Hat Mono Logo Snapback Black - $69.99]]></title>
-		<link>https://www.boardstore.com.au/creature-hat-mono-logo-snapback-black</link>
-		<guid isPermaLink="false"><![CDATA[092010042]]></guid>
-		<description><![CDATA[Creature - $69.99]]></description>
-		<category><![CDATA[Caps]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/092010042.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Krooked Sticker Eyes Die Cut medium Assorted Colours - $4.00]]></title>
-		<link>https://www.boardstore.com.au/krooked-sticker-eyes-die-cut-medium-assorted-colou</link>
-		<guid isPermaLink="false"><![CDATA[003001041]]></guid>
-		<description><![CDATA[Krooked - $4.00]]></description>
-		<category><![CDATA[Stickers]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/003001041.jpg" medium="image" />
+		<title><![CDATA[New Balance NB Numeric 306C BW Jamie Foy Sea Salt/Navy/Gum - $159.99]]></title>
+		<link>https://www.boardstore.com.au/new-balance-nb-numeric-306c-bw-jamie-foy-sea-salt</link>
+		<guid isPermaLink="false"><![CDATA[N306CBW.]]></guid>
+		<description><![CDATA[New Balance - $159.99]]></description>
+		<category><![CDATA[New Balance]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/N306CBW..png" medium="image" />
 	</item>
 </channel>
 </rss>
