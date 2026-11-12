@@ -5,8 +5,56 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Thu, 12 Nov 2026 07:20:07 +1000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Nov 2026 07:20:07 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[Birdhouse Complete Vulture 10.25 Inch Width - $299.99]]></title>
+		<link>https://www.boardstore.com.au/birdhouse-complete-vulture-10.25-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[006005162]]></guid>
+		<description><![CDATA[Birdhouse - $299.99]]></description>
+		<category><![CDATA[Old School & Shaped]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/006005162.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Birdhouse Complete Skull Light Blue 8.25 Inch Width - $159.99]]></title>
+		<link>https://www.boardstore.com.au/birdhouse-complete-skull-light-blue-8.25-inch-widt</link>
+		<guid isPermaLink="false"><![CDATA[006005165]]></guid>
+		<description><![CDATA[Birdhouse - $159.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/006005165.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Birdhouse Complete Skull Red 8.5 Inch Width - $159.99]]></title>
+		<link>https://www.boardstore.com.au/birdhouse-complete-skull-red-8.5-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[006005166]]></guid>
+		<description><![CDATA[Birdhouse - $159.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/006005166.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Birdhouse Complete Skull 2 9.75 Inch Width - $299.99]]></title>
+		<link>https://www.boardstore.com.au/birdhouse-complete-skull-2-9.75-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[006005160]]></guid>
+		<description><![CDATA[Birdhouse - $299.99]]></description>
+		<category><![CDATA[Old School & Shaped]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/006005160.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Cockroach Tee Classic White - $64.99]]></title>
+		<link>https://www.boardstore.com.au/cockroach-tee-classic-white~1336897</link>
+		<guid isPermaLink="false"><![CDATA[CTWHIT-]]></guid>
+		<description><![CDATA[Cockroach - $64.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/CTWHIT-.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Cockroach Tee Classic Black - $64.99]]></title>
+		<link>https://www.boardstore.com.au/cockroach-tee-classic-black~1336892</link>
+		<guid isPermaLink="false"><![CDATA[CTBLAC-]]></guid>
+		<description><![CDATA[Cockroach - $64.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/CTBLAC-.jpg" medium="image" />
+	</item>
 	<item>
 		<title><![CDATA[Ace Bolts 1 inch Allen Gold - $14.99]]></title>
 		<link>https://www.boardstore.com.au/ace-bolts-1-inch-allen-gold</link>
@@ -124,12 +172,44 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/IP.SHO.NYLFIELD.BW..png" medium="image" />
 	</item>
 	<item>
+		<title><![CDATA[Passport Complete Doggo 8.25 Inch Width - $219.99]]></title>
+		<link>https://www.boardstore.com.au/passport-complete-doggo-8.25-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[PPC.DOG.8.25]]></guid>
+		<description><![CDATA[Passport - $219.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/PPC.DOG.8.25.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Passport Complete Hoops 8.25 Inch Width - $219.99]]></title>
+		<link>https://www.boardstore.com.au/passport-complete-hoops-8.25-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[PPC.HPS.8.25]]></guid>
+		<description><![CDATA[Passport - $219.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/PPC.HPS.8.25.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Passport Complete Hoops 8.5 Inch Width - $219.99]]></title>
+		<link>https://www.boardstore.com.au/passport-complete-hoops-8.5-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[PPC.HPS.8.5]]></guid>
+		<description><![CDATA[Passport - $219.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/PPC.HPS.8.5.webp" medium="image" />
+	</item>
+	<item>
 		<title><![CDATA[Project Grind Rail Round 6 Foot Orange - $199.99]]></title>
 		<link>https://www.boardstore.com.au/project-grind-rail-round-6-foot-orange</link>
 		<guid isPermaLink="false"><![CDATA[000009004]]></guid>
 		<description><![CDATA[Project - $199.99]]></description>
 		<category><![CDATA[Ramps & Rails]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/000009004.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Spitfire Sticker Fireball Fill Medium 4.5 x 6 Inch - $4.00]]></title>
+		<link>https://www.boardstore.com.au/spitfire-sticker-fireball-fill-medium-4.5-x-6-inch</link>
+		<guid isPermaLink="false"><![CDATA[005001577]]></guid>
+		<description><![CDATA[Spitfire - $4.00]]></description>
+		<category><![CDATA[Stickers]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/005001577.jpg" medium="image" />
 	</item>
 	<item>
 		<title><![CDATA[Trinity Pads Youth Wrist Guards 2.0 - $16.99]]></title>
@@ -143,210 +223,124 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/tripad.w.youth.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Trucks AF1 33 Magenta Splatter / Polished (8.0 Inch Width) - $139.99]]></title>
-		<link>https://www.boardstore.com.au/ace-trucks-af1-33-magenta-splatter-polished-8.0-in</link>
-		<guid isPermaLink="false"><![CDATA[ace.a.07.33]]></guid>
-		<description><![CDATA[Ace - $139.99]]></description>
-		<category><![CDATA[Ace]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ace.a.07.33.png" medium="image" />
+		<title><![CDATA[Patagonia Tee Capeline Cool Daily Shirt Cloud Crag Glacial Blue - $89.99]]></title>
+		<link>https://www.boardstore.com.au/patagonia-tee-capeline-cool-daily-shirt-cloud-crag</link>
+		<guid isPermaLink="false"><![CDATA[45477-GLBX.]]></guid>
+		<description><![CDATA[Patagonia - $89.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/45477-GLBX..webp" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Trucks AF1 44 Magenta Splatter / Polished (8.25 Inch Width) - $139.99]]></title>
-		<link>https://www.boardstore.com.au/ace-trucks-af1-44-magenta-splatter-polished-8.25-i</link>
-		<guid isPermaLink="false"><![CDATA[ace.a.07.44]]></guid>
-		<description><![CDATA[Ace - $139.99]]></description>
-		<category><![CDATA[Ace]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ace.a.07.44.png" medium="image" />
+		<title><![CDATA[Patagonia Shirt Self Guided Sun Shirt Long Sleeve Blue Sage - $149.99]]></title>
+		<link>https://www.boardstore.com.au/patagonia-shirt-self-guided-sun-shirt-long-sleeve~1336754</link>
+		<guid isPermaLink="false"><![CDATA[41825-blsg.]]></guid>
+		<description><![CDATA[Patagonia - $149.99]]></description>
+		<category><![CDATA[Long Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/41825-blsg..webp" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Trucks AF1 55 Magenta Splatter / Polished (8.5 Inch Width) - $139.99]]></title>
-		<link>https://www.boardstore.com.au/ace-trucks-af1-55-magenta-splatter-polished-8.5-in</link>
-		<guid isPermaLink="false"><![CDATA[ace.a.07.55]]></guid>
-		<description><![CDATA[Ace - $139.99]]></description>
-		<category><![CDATA[Ace]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ace.a.07.55.png" medium="image" />
+		<title><![CDATA[Patagonia Tee P-6 Logo Undyed Natural - $79.99]]></title>
+		<link>https://www.boardstore.com.au/patagonia-tee-p-6-logo-undyed-natural</link>
+		<guid isPermaLink="false"><![CDATA[37882-udnl.]]></guid>
+		<description><![CDATA[Patagonia - $79.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/37882-udnl..webp" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Trucks AF1 60 Magenta Splatter / Polished (8.75 Inch Width) - $139.99]]></title>
-		<link>https://www.boardstore.com.au/ace-trucks-af1-60-magenta-splatter-polished-8.75-i</link>
-		<guid isPermaLink="false"><![CDATA[ace.a.07.60]]></guid>
-		<description><![CDATA[Ace - $139.99]]></description>
-		<category><![CDATA[Ace]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ace.a.07.60.png" medium="image" />
+		<title><![CDATA[Patagonia Jumper Lightweight Synch Snap-T Pullover Oatmeal Heather/New Navy - $219.99]]></title>
+		<link>https://www.boardstore.com.au/patagonia-jumper-lightweight-synch-snap-t-pullover~1336744</link>
+		<guid isPermaLink="false"><![CDATA[25551-olna.]]></guid>
+		<description><![CDATA[Patagonia - $219.99]]></description>
+		<category><![CDATA[Jumpers]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/25551-olna..webp" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Trucks AF1 44 Satin White with Gold Hardware (8.25 Inch Width) - $139.99]]></title>
-		<link>https://www.boardstore.com.au/ace-trucks-af1-44-satin-white-with-gold-hardware-8</link>
-		<guid isPermaLink="false"><![CDATA[ace.a.08.44]]></guid>
-		<description><![CDATA[Ace - $139.99]]></description>
-		<category><![CDATA[Ace]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ace.a.08.44.png" medium="image" />
+		<title><![CDATA[Patagonia Tee Capeline Cool Trail Shirt Basin Green - $89.99]]></title>
+		<link>https://www.boardstore.com.au/patagonia-tee-capeline-cool-trail-shirt-basin-gree</link>
+		<guid isPermaLink="false"><![CDATA[24498-bsng.]]></guid>
+		<description><![CDATA[Patagonia - $89.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/24498-bsng..webp" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Trucks AF1 55 Satin White with Gold Hardware (8.5 Inch Width) - $139.99]]></title>
-		<link>https://www.boardstore.com.au/ace-trucks-af1-55-satin-white-with-gold-hardware-8</link>
-		<guid isPermaLink="false"><![CDATA[ace.a.08.55]]></guid>
-		<description><![CDATA[Ace - $139.99]]></description>
-		<category><![CDATA[Ace]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ace.a.08.55.png" medium="image" />
+		<title><![CDATA[Patagonia Hat Boardshort Label Funfarer Summit Blue - $59.99]]></title>
+		<link>https://www.boardstore.com.au/patagonia-hat-boardshort-label-funfarer-summit-blu</link>
+		<guid isPermaLink="false"><![CDATA[38278.SMTB]]></guid>
+		<description><![CDATA[Patagonia - $59.99]]></description>
+		<category><![CDATA[Caps]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/38278.SMTB.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Trucks AF1 60 Satin White with Gold Hardware (8.75 Inch Width) - $139.99]]></title>
-		<link>https://www.boardstore.com.au/ace-trucks-af1-60-satin-white-with-gold-hardware-8</link>
-		<guid isPermaLink="false"><![CDATA[ace.a.08.60]]></guid>
-		<description><![CDATA[Ace - $139.99]]></description>
-		<category><![CDATA[Ace]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ace.a.08.60.png" medium="image" />
+		<title><![CDATA[Patagonia Hat P-6 Label Trad Cap Canopy Green - $59.99]]></title>
+		<link>https://www.boardstore.com.au/patagonia-hat-p-6-label-trad-cap-canopy-green</link>
+		<guid isPermaLink="false"><![CDATA[38296-cngr]]></guid>
+		<description><![CDATA[Patagonia - $59.99]]></description>
+		<category><![CDATA[Caps]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/38296-cngr.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Trucks Classics 33 Bird Egg Blue (8.0 Inch Width) - $109.99]]></title>
-		<link>https://www.boardstore.com.au/ace-trucks-classics-33-bird-egg-blue-8.0-inch-widt</link>
-		<guid isPermaLink="false"><![CDATA[ace.c.03.33]]></guid>
-		<description><![CDATA[Ace - $109.99]]></description>
-		<category><![CDATA[Ace]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ace.c.03.33.png" medium="image" />
+		<title><![CDATA[Patagonia Bag Atom Sling 8L Berry Fig - $119.99]]></title>
+		<link>https://www.boardstore.com.au/patagonia-bag-atom-sling-8l-berry-fig</link>
+		<guid isPermaLink="false"><![CDATA[48262-byfg]]></guid>
+		<description><![CDATA[Patagonia - $119.99]]></description>
+		<category><![CDATA[Bags]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/48262-byfg.webp" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Trucks Classics 44 Bird Egg Blue (8.3 Inch Width) - $109.99]]></title>
-		<link>https://www.boardstore.com.au/ace-trucks-classics-44-bird-egg-blue-8.3-inch-widt</link>
-		<guid isPermaLink="false"><![CDATA[ace.c.03.44]]></guid>
-		<description><![CDATA[Ace - $109.99]]></description>
-		<category><![CDATA[Ace]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ace.c.03.44.png" medium="image" />
+		<title><![CDATA[Patagonia Bag Terravia Tote Pack Berry Fig - $149.99]]></title>
+		<link>https://www.boardstore.com.au/patagonia-bag-terravia-tote-pack-berry-fig</link>
+		<guid isPermaLink="false"><![CDATA[48814-byfg.]]></guid>
+		<description><![CDATA[Patagonia - $149.99]]></description>
+		<category><![CDATA[Bags]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/48814-byfg..webp" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Trucks Classics 55 Bird Egg Blue (9.0 Inch Width) - $109.99]]></title>
-		<link>https://www.boardstore.com.au/ace-trucks-classics-55-bird-egg-blue-9.0-inch-widt</link>
-		<guid isPermaLink="false"><![CDATA[ace.c.03.55]]></guid>
-		<description><![CDATA[Ace - $109.99]]></description>
-		<category><![CDATA[Ace]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/ace.c.03.55.png" medium="image" />
+		<title><![CDATA[Patagonia Bag Black Hole Waist Pack 5L Black - $129.99]]></title>
+		<link>https://www.boardstore.com.au/patagonia-bag-black-hole-waist-pack-5l-black~1336765</link>
+		<guid isPermaLink="false"><![CDATA[49282-bob]]></guid>
+		<description><![CDATA[Patagonia - $129.99]]></description>
+		<category><![CDATA[Bags]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/49282-bob.webp" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Hacky Sack - Rasta - $19.99]]></title>
-		<link>https://www.boardstore.com.au/ace-hacky-sack-rasta</link>
-		<guid isPermaLink="false"><![CDATA[aceacc.26.02]]></guid>
-		<description><![CDATA[Ace - $19.99]]></description>
-		<category><![CDATA[Other]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/aceacc.26.02.png" medium="image" />
+		<title><![CDATA[Patagonia Bag Black Hole Duffel 40L Birch White - $249.99]]></title>
+		<link>https://www.boardstore.com.au/patagonia-bag-black-hole-duffel-40l-birch-white</link>
+		<guid isPermaLink="false"><![CDATA[49339-BCW]]></guid>
+		<description><![CDATA[Patagonia - $249.99]]></description>
+		<category><![CDATA[Bags]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/49339-BCW.webp" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Riser Shims 3mm (1/8) - Green - $12.99]]></title>
-		<link>https://www.boardstore.com.au/ace-riser-shims-3mm-1-8-green</link>
-		<guid isPermaLink="false"><![CDATA[acehar.ris.02.g]]></guid>
-		<description><![CDATA[Ace - $12.99]]></description>
-		<category><![CDATA[Riser Pads]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/acehar.ris.02.g.png" medium="image" />
+		<title><![CDATA[Patagonia Bag Black Hole Duffel 40L Berry Fig - $249.99]]></title>
+		<link>https://www.boardstore.com.au/patagonia-bag-black-hole-duffel-40l-berry-fig</link>
+		<guid isPermaLink="false"><![CDATA[49339-BYFG]]></guid>
+		<description><![CDATA[Patagonia - $249.99]]></description>
+		<category><![CDATA[Bags]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/49339-BYFG.webp" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Riser Shims 3mm (1/8) - Red - $12.99]]></title>
-		<link>https://www.boardstore.com.au/ace-riser-shims-3mm-1-8-red</link>
-		<guid isPermaLink="false"><![CDATA[acehar.ris.02.r]]></guid>
-		<description><![CDATA[Ace - $12.99]]></description>
-		<category><![CDATA[Riser Pads]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/acehar.ris.02.r.png" medium="image" />
+		<title><![CDATA[Patagonia Bag Black Hole Duffel 55L Birch White - $269.99]]></title>
+		<link>https://www.boardstore.com.au/patagonia-bag-black-hole-duffel-55l-birch-white</link>
+		<guid isPermaLink="false"><![CDATA[49343-BCW]]></guid>
+		<description><![CDATA[Patagonia - $269.99]]></description>
+		<category><![CDATA[Bags]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/49343-BCW.webp" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Riser Shims 3mm (1/8) - Yellow - $12.99]]></title>
-		<link>https://www.boardstore.com.au/ace-riser-shims-3mm-1-8-yellow</link>
-		<guid isPermaLink="false"><![CDATA[acehar.ris.02.y]]></guid>
-		<description><![CDATA[Ace - $12.99]]></description>
-		<category><![CDATA[Riser Pads]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/acehar.ris.02.y.png" medium="image" />
+		<title><![CDATA[Patagonia Bag Black Hole Duffel 70L Birch White - $299.99]]></title>
+		<link>https://www.boardstore.com.au/patagonia-bag-black-hole-duffel-70l-birch-white</link>
+		<guid isPermaLink="false"><![CDATA[49348.BCW]]></guid>
+		<description><![CDATA[Patagonia - $299.99]]></description>
+		<category><![CDATA[Bags]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/49348.BCW.webp" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Ace Sticker Combust 3.5 inch - $3.00]]></title>
-		<link>https://www.boardstore.com.au/ace-sticker-combust-3.5-inch</link>
-		<guid isPermaLink="false"><![CDATA[acesti.26.01.2]]></guid>
-		<description><![CDATA[Ace - $3.00]]></description>
-		<category><![CDATA[Stickers]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/acesti.26.01.2.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Ace Sticker Sketch 3.5 inch - $3.00]]></title>
-		<link>https://www.boardstore.com.au/ace-sticker-sketch-3.5-inch</link>
-		<guid isPermaLink="false"><![CDATA[acesti.26.02.2]]></guid>
-		<description><![CDATA[Ace - $3.00]]></description>
-		<category><![CDATA[Stickers]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/acesti.26.02.2.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Ace Sticker Dawg Bowl 3 inch - $3.00]]></title>
-		<link>https://www.boardstore.com.au/ace-sticker-dawg-bowl-3-inch</link>
-		<guid isPermaLink="false"><![CDATA[acesti.26.03.2]]></guid>
-		<description><![CDATA[Ace - $3.00]]></description>
-		<category><![CDATA[Stickers]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/acesti.26.03.2.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Ace Sticker Bulldawg 3.5 inch - $3.00]]></title>
-		<link>https://www.boardstore.com.au/ace-sticker-bulldawg-3.5-inch</link>
-		<guid isPermaLink="false"><![CDATA[acesti.26.04.2]]></guid>
-		<description><![CDATA[Ace - $3.00]]></description>
-		<category><![CDATA[Stickers]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/acesti.26.04.2.png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Asics Japan Pro Forest Moss/Black - $179.99]]></title>
-		<link>https://www.boardstore.com.au/asics-japan-pro-forest-moss-black</link>
-		<guid isPermaLink="false"><![CDATA[1203B203-301.]]></guid>
-		<description><![CDATA[Asics - $179.99]]></description>
-		<category><![CDATA[asics]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/1203B203-301..jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Vans Skate Half Cab Wafflecup Black/White - $144.49]]></title>
-		<link>https://www.boardstore.com.au/vans-skate-half-cab-wafflecup-black-white</link>
-		<guid isPermaLink="false"><![CDATA[VN000D9ZBA2.BKW.]]></guid>
-		<description><![CDATA[Vans - $144.49]]></description>
-		<wasPrice>169.99</wasPrice>
-		<discountPercent>15</discountPercent>
-		<category><![CDATA[Sale]]></category>
-		<category><![CDATA[Vans]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/VN000D9ZBA2.BKW..png" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[fatboy Charger 48v EN 3Ah - $120.00]]></title>
-		<link>https://www.boardstore.com.au/fatboy-charger-48v-en-3ah</link>
-		<guid isPermaLink="false"><![CDATA[fatboy.charger.48v.en]]></guid>
-		<description><![CDATA[fatboy - $120.00]]></description>
-		<category><![CDATA[Accessories]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/fatboy.charger.48v.en.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[fatboy Charger 48v V1 XLR 3 Pin Male - $120.00]]></title>
-		<link>https://www.boardstore.com.au/fatboy-charger-48v-v1-xlr-3-pin-male</link>
-		<guid isPermaLink="false"><![CDATA[fatboy.charger.48v.v1]]></guid>
-		<description><![CDATA[fatboy - $120.00]]></description>
-		<category><![CDATA[Accessories]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/fatboy.charger.48v.v1.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Vans Skate Loafer Suede Black/Black - $135.99]]></title>
-		<link>https://www.boardstore.com.au/vans-skate-loafer-suede-black-black</link>
-		<guid isPermaLink="false"><![CDATA[VN000VA6BKA.BLK.]]></guid>
-		<description><![CDATA[Vans - $135.99]]></description>
-		<wasPrice>159.99</wasPrice>
-		<discountPercent>15</discountPercent>
-		<category><![CDATA[Sale]]></category>
-		<category><![CDATA[Vans]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/VN000VA6BKA.BLK..jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[New Balance NB Numeric 417 Low GS Charcoal/Black - $159.99]]></title>
-		<link>https://www.boardstore.com.au/new-balance-nb-numeric-417-low-gs-charcoal-black</link>
-		<guid isPermaLink="false"><![CDATA[N417LGS.]]></guid>
-		<description><![CDATA[New Balance - $159.99]]></description>
-		<category><![CDATA[New Balance]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/N417LGS..jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[New Balance NB Numeric 306C BW Jamie Foy Sea Salt/Navy/Gum - $159.99]]></title>
-		<link>https://www.boardstore.com.au/new-balance-nb-numeric-306c-bw-jamie-foy-sea-salt</link>
-		<guid isPermaLink="false"><![CDATA[N306CBW.]]></guid>
-		<description><![CDATA[New Balance - $159.99]]></description>
-		<category><![CDATA[New Balance]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/N306CBW..png" medium="image" />
+		<title><![CDATA[Patagonia Bag Terravia Mini Hip Pack Snowmelt Blue - $59.99]]></title>
+		<link>https://www.boardstore.com.au/patagonia-bag-terravia-mini-hip-pack-snowmelt-blue~1336771</link>
+		<guid isPermaLink="false"><![CDATA[49448-pwsn.]]></guid>
+		<description><![CDATA[Patagonia - $59.99]]></description>
+		<category><![CDATA[Bags]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/49448-pwsn..webp" medium="image" />
 	</item>
 </channel>
 </rss>
