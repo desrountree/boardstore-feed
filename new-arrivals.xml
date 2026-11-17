@@ -5,8 +5,48 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Tue, 17 Nov 2026 07:20:10 +1000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Nov 2026 07:20:07 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[Nike Tee Loose Universal Black - $59.99]]></title>
+		<link>https://www.boardstore.com.au/nike-tee-loose-universal-black</link>
+		<guid isPermaLink="false"><![CDATA[JA0086-045.]]></guid>
+		<description><![CDATA[Nike SB - $59.99]]></description>
+		<category><![CDATA[Short Sleeve]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/JA0086-045..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Adidas Adilette 22 Grey Five/Grey Five/Core Black - $89.99]]></title>
+		<link>https://www.boardstore.com.au/adidas-adilette-22-grey-five-grey-five-core-black</link>
+		<guid isPermaLink="false"><![CDATA[HP6522.]]></guid>
+		<description><![CDATA[Adidas - $89.99]]></description>
+		<category><![CDATA[Thongs & Slides]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/HP6522..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Nike Youth Court Borough Low GS White/University Red/Black - $84.99]]></title>
+		<link>https://www.boardstore.com.au/nike-youth-court-borough-low-gs-white-university-r</link>
+		<guid isPermaLink="false"><![CDATA[BQ5448-110.]]></guid>
+		<description><![CDATA[Nike SB - $84.99]]></description>
+		<category><![CDATA[Nike SB ]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/BQ5448-110..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Tyshawn II Black/Black/Scarlet - $159.99]]></title>
+		<link>https://www.boardstore.com.au/tyshawn-ii-black-black-scarlet</link>
+		<guid isPermaLink="false"><![CDATA[KK2981.]]></guid>
+		<description><![CDATA[Adidas - $159.99]]></description>
+		<category><![CDATA[Adidas]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/KK2981..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Glenburn Bronze/Gold/Gum - $129.99]]></title>
+		<link>https://www.boardstore.com.au/glenburn-bronze-gold-gum</link>
+		<guid isPermaLink="false"><![CDATA[KJ5052.]]></guid>
+		<description><![CDATA[Adidas - $129.99]]></description>
+		<category><![CDATA[Adidas]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/KJ5052..jpg" medium="image" />
+	</item>
 	<item>
 		<title><![CDATA[Birdhouse Complete Vulture 10.25 Inch Width - $299.99]]></title>
 		<link>https://www.boardstore.com.au/birdhouse-complete-vulture-10.25-inch-width</link>
@@ -223,6 +263,14 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/tripad.w.youth.jpg" medium="image" />
 	</item>
 	<item>
+		<title><![CDATA[Nike Youth Court Borough Low Recraft PS White/Pink Foam - $79.99]]></title>
+		<link>https://www.boardstore.com.au/nike-youth-court-borough-low-recraft-ps-white-pink</link>
+		<guid isPermaLink="false"><![CDATA[DV5457-105.]]></guid>
+		<description><![CDATA[Nike SB - $79.99]]></description>
+		<category><![CDATA[Nike SB ]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/DV5457-105..jpg" medium="image" />
+	</item>
+	<item>
 		<title><![CDATA[Patagonia Tee Capeline Cool Daily Shirt Cloud Crag Glacial Blue - $89.99]]></title>
 		<link>https://www.boardstore.com.au/patagonia-tee-capeline-cool-daily-shirt-cloud-crag</link>
 		<guid isPermaLink="false"><![CDATA[45477-GLBX.]]></guid>
@@ -293,54 +341,6 @@
 		<description><![CDATA[Patagonia - $149.99]]></description>
 		<category><![CDATA[Bags]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/48814-byfg..webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Patagonia Bag Black Hole Waist Pack 5L Black - $129.99]]></title>
-		<link>https://www.boardstore.com.au/patagonia-bag-black-hole-waist-pack-5l-black~1336765</link>
-		<guid isPermaLink="false"><![CDATA[49282-bob]]></guid>
-		<description><![CDATA[Patagonia - $129.99]]></description>
-		<category><![CDATA[Bags]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/49282-bob.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Patagonia Bag Black Hole Duffel 40L Birch White - $249.99]]></title>
-		<link>https://www.boardstore.com.au/patagonia-bag-black-hole-duffel-40l-birch-white</link>
-		<guid isPermaLink="false"><![CDATA[49339-BCW]]></guid>
-		<description><![CDATA[Patagonia - $249.99]]></description>
-		<category><![CDATA[Bags]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/49339-BCW.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Patagonia Bag Black Hole Duffel 40L Berry Fig - $249.99]]></title>
-		<link>https://www.boardstore.com.au/patagonia-bag-black-hole-duffel-40l-berry-fig</link>
-		<guid isPermaLink="false"><![CDATA[49339-BYFG]]></guid>
-		<description><![CDATA[Patagonia - $249.99]]></description>
-		<category><![CDATA[Bags]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/49339-BYFG.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Patagonia Bag Black Hole Duffel 55L Birch White - $269.99]]></title>
-		<link>https://www.boardstore.com.au/patagonia-bag-black-hole-duffel-55l-birch-white</link>
-		<guid isPermaLink="false"><![CDATA[49343-BCW]]></guid>
-		<description><![CDATA[Patagonia - $269.99]]></description>
-		<category><![CDATA[Bags]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/49343-BCW.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Patagonia Bag Black Hole Duffel 70L Birch White - $299.99]]></title>
-		<link>https://www.boardstore.com.au/patagonia-bag-black-hole-duffel-70l-birch-white</link>
-		<guid isPermaLink="false"><![CDATA[49348.BCW]]></guid>
-		<description><![CDATA[Patagonia - $299.99]]></description>
-		<category><![CDATA[Bags]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/49348.BCW.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Patagonia Bag Terravia Mini Hip Pack Snowmelt Blue - $59.99]]></title>
-		<link>https://www.boardstore.com.au/patagonia-bag-terravia-mini-hip-pack-snowmelt-blue~1336771</link>
-		<guid isPermaLink="false"><![CDATA[49448-pwsn.]]></guid>
-		<description><![CDATA[Patagonia - $59.99]]></description>
-		<category><![CDATA[Bags]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/49448-pwsn..webp" medium="image" />
 	</item>
 </channel>
 </rss>
