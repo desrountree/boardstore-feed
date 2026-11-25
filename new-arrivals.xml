@@ -5,7 +5,7 @@
 	<link>https://www.boardstore.com.au/new_arrivals</link>
 	<description>Fresh stock at Boardstore, newest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Mon, 23 Nov 2026 07:22:32 +1000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Nov 2026 07:28:20 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/new-arrivals.xml" rel="self" type="application/rss+xml" />
 	<item>
 		<title><![CDATA[Baker Shirt Where My Dogs At Blue/White - $139.99]]></title>
@@ -31,6 +31,30 @@
 		<description><![CDATA[Baker - $79.99]]></description>
 		<category><![CDATA[Short Sleeve]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/03-30-02202..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Grizzly Complete Seoul Bear Blue 8.0 - $129.99]]></title>
+		<link>https://www.boardstore.com.au/grizzly-complete-seoul-bear-blue-8.0</link>
+		<guid isPermaLink="false"><![CDATA[gricom.1.01]]></guid>
+		<description><![CDATA[Grizzly - $129.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/gricom.1.01.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Grizzly Complete Seoul Bear White 8.25 - $129.99]]></title>
+		<link>https://www.boardstore.com.au/grizzly-complete-seoul-bear-white-8.25</link>
+		<guid isPermaLink="false"><![CDATA[gricom.1.02]]></guid>
+		<description><![CDATA[Grizzly - $129.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/gricom.1.02.webp" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Grizzly Complete G-Rose Black 8.0 - $129.99]]></title>
+		<link>https://www.boardstore.com.au/grizzly-complete-g-rose-black-8.0</link>
+		<guid isPermaLink="false"><![CDATA[gricom.1.03]]></guid>
+		<description><![CDATA[Grizzly - $129.99]]></description>
+		<category><![CDATA[Double Kick]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/gricom.1.03.webp" medium="image" />
 	</item>
 	<item>
 		<title><![CDATA[Baker Deck Zach Allen Katch1 8.5 Inch Width - $159.99]]></title>
@@ -79,14 +103,6 @@
 		<description><![CDATA[Baker - $159.99]]></description>
 		<category><![CDATA[Double Kick]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/03-01-02268.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Baker Deck Figgy Fortune's Fool 8.5 Inch Width - $159.99]]></title>
-		<link>https://www.boardstore.com.au/baker-deck-figgy-fortunes-fool-8.5-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[03-01-02269]]></guid>
-		<description><![CDATA[Baker - $159.99]]></description>
-		<category><![CDATA[Double Kick]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/03-01-02269.jpg" medium="image" />
 	</item>
 	<item>
 		<title><![CDATA[Baker Deck T-Funk Fortune's Fool 8.75 Inch Width - $169.99]]></title>
@@ -249,22 +265,6 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/BQ5448-110..jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Tyshawn II Black/Black/Scarlet - $159.99]]></title>
-		<link>https://www.boardstore.com.au/tyshawn-ii-black-black-scarlet</link>
-		<guid isPermaLink="false"><![CDATA[KK2981.]]></guid>
-		<description><![CDATA[Adidas - $159.99]]></description>
-		<category><![CDATA[Adidas]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/KK2981..jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Glenburn Bronze/Gold/Gum - $129.99]]></title>
-		<link>https://www.boardstore.com.au/glenburn-bronze-gold-gum</link>
-		<guid isPermaLink="false"><![CDATA[KJ5052.]]></guid>
-		<description><![CDATA[Adidas - $129.99]]></description>
-		<category><![CDATA[Adidas]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/KJ5052..jpg" medium="image" />
-	</item>
-	<item>
 		<title><![CDATA[Birdhouse Complete Vulture 10.25 Inch Width - $299.99]]></title>
 		<link>https://www.boardstore.com.au/birdhouse-complete-vulture-10.25-inch-width</link>
 		<guid isPermaLink="false"><![CDATA[006005162]]></guid>
@@ -297,6 +297,22 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/006005160.jpg" medium="image" />
 	</item>
 	<item>
+		<title><![CDATA[Adidas Glenburn Bronze/Gold/Gum - $129.99]]></title>
+		<link>https://www.boardstore.com.au/glenburn-bronze-gold-gum</link>
+		<guid isPermaLink="false"><![CDATA[KJ5052.]]></guid>
+		<description><![CDATA[Adidas - $129.99]]></description>
+		<category><![CDATA[Adidas]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/KJ5052..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Adidas Tyshawn II Black/Black/Scarlet - $159.99]]></title>
+		<link>https://www.boardstore.com.au/tyshawn-ii-black-black-scarlet</link>
+		<guid isPermaLink="false"><![CDATA[KK2981.]]></guid>
+		<description><![CDATA[Adidas - $159.99]]></description>
+		<category><![CDATA[Adidas]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/KK2981..jpg" medium="image" />
+	</item>
+	<item>
 		<title><![CDATA[Cockroach Tee Classic White - $64.99]]></title>
 		<link>https://www.boardstore.com.au/cockroach-tee-classic-white~1336897</link>
 		<guid isPermaLink="false"><![CDATA[CTWHIT-]]></guid>
@@ -311,22 +327,6 @@
 		<description><![CDATA[Cockroach - $64.99]]></description>
 		<category><![CDATA[Short Sleeve]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/CTBLAC-.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Ace Bolts 1 inch Allen Gold - $14.99]]></title>
-		<link>https://www.boardstore.com.au/ace-bolts-1-inch-allen-gold</link>
-		<guid isPermaLink="false"><![CDATA[acehar.ba.g.02]]></guid>
-		<description><![CDATA[Ace - $14.99]]></description>
-		<category><![CDATA[Bolts]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/acehar.ba.g.02.webp" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Ace Bolts 1 inch Allen Silver - $14.99]]></title>
-		<link>https://www.boardstore.com.au/ace-bolts-1-inch-allen-silver</link>
-		<guid isPermaLink="false"><![CDATA[acehar.ba.s.02]]></guid>
-		<description><![CDATA[Ace - $14.99]]></description>
-		<category><![CDATA[Bolts]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/acehar.ba.s.02.webp" medium="image" />
 	</item>
 </channel>
 </rss>
