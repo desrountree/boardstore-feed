@@ -5,7 +5,7 @@
 	<link>https://www.boardstore.com.au/clearance/</link>
 	<description>Clearance stock at Boardstore, cheapest first.</description>
 	<language>en-au</language>
-	<lastBuildDate>Fri, 20 Nov 2026 07:21:13 +1000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Nov 2026 07:20:25 +1000</lastBuildDate>
 	<atom:link href="https://desrountree.github.io/boardstore-feed/clearance.xml" rel="self" type="application/rss+xml" />
 	<item>
 		<title><![CDATA[Traffic Beanie Script Royal - $20.00]]></title>
@@ -141,19 +141,6 @@
 		<category><![CDATA[Street, Park & Vert]]></category>
 		<category><![CDATA[Crupie]]></category>
 		<media:content url="https://www.boardstore.com.au/assets/thumb/cruwhe.js.51.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Uma Landsleds Tee Snap Baby Blue - $29.99]]></title>
-		<link>https://www.boardstore.com.au/uma-tee-snap-baby-blue</link>
-		<guid isPermaLink="false"><![CDATA[umatee.snap.bl.]]></guid>
-		<description><![CDATA[Uma Landsleds - $29.99 - was $59.99 - 50% off]]></description>
-		<wasPrice>59.99</wasPrice>
-		<discountPercent>50</discountPercent>
-		<category><![CDATA[Clothing]]></category>
-		<category><![CDATA[Short Sleeve]]></category>
-		<category><![CDATA[Sale]]></category>
-		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/umatee.snap.bl..jpg" medium="image" />
 	</item>
 	<item>
 		<title><![CDATA[Uma Tee Logo Pink - $29.99]]></title>
@@ -527,21 +514,33 @@
 		<media:content url="https://www.boardstore.com.au/assets/thumb/umatee.errrr.blu..jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Crupie Tee ODB O/C Graf Black - $29.99]]></title>
-		<link>https://www.boardstore.com.au/crupie-tee-odb-o-c-graf-black</link>
-		<guid isPermaLink="false"><![CDATA[crutee.odb.gra.b]]></guid>
+		<title><![CDATA[Uma Tee Remnants Black - $29.99]]></title>
+		<link>https://www.boardstore.com.au/uma-tee-remnants-black</link>
+		<guid isPermaLink="false"><![CDATA[umatee.rem.blk.]]></guid>
+		<description><![CDATA[Uma Landsleds - $29.99 - was $59.99 - 50% off]]></description>
+		<wasPrice>59.99</wasPrice>
+		<discountPercent>50</discountPercent>
+		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Slash n Grab]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/umatee.rem.blk..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Crupie Tee ODB O/C Graf White - $29.99]]></title>
+		<link>https://www.boardstore.com.au/crupie-tee-odb-o-c-graf-white</link>
+		<guid isPermaLink="false"><![CDATA[crutee.odb.gra.w]]></guid>
 		<description><![CDATA[Crupie - $29.99 - was $59.99 - 50% off]]></description>
 		<wasPrice>59.99</wasPrice>
 		<discountPercent>50</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/crutee.odb.gra.b.png" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/crutee.odb.gra.w.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Crupie Wheels 51mm PAZ - $29.99]]></title>
-		<link>https://www.boardstore.com.au/crupie-wheels-51mm-paz</link>
-		<guid isPermaLink="false"><![CDATA[cruwhe.paz.51]]></guid>
+		<title><![CDATA[Crupie Wheels 52mm PAZ - $29.99]]></title>
+		<link>https://www.boardstore.com.au/crupie-wheels-52mm-paz</link>
+		<guid isPermaLink="false"><![CDATA[cruwhe.paz.52]]></guid>
 		<description><![CDATA[Crupie - $29.99 - was $49.99 - 40% off]]></description>
 		<wasPrice>49.99</wasPrice>
 		<discountPercent>40</discountPercent>
@@ -549,85 +548,72 @@
 		<category><![CDATA[Street, Park & Vert]]></category>
 		<category><![CDATA[Crupie]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/cruwhe.paz.51.jpg" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/cruwhe.paz.52.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Scumco Tee Light Blue Logo - $29.99]]></title>
-		<link>https://www.boardstore.com.au/scumco-tee-light-blue-logo</link>
-		<guid isPermaLink="false"><![CDATA[scutee.1.lb.01.]]></guid>
-		<description><![CDATA[Scumco - $29.99 - was $49.99 - 40% off]]></description>
-		<wasPrice>49.99</wasPrice>
+		<title><![CDATA[Traffic Tee Safari Green - $32.99]]></title>
+		<link>https://www.boardstore.com.au/traffic-tee-safari-green</link>
+		<guid isPermaLink="false"><![CDATA[tratee.1.s.g]]></guid>
+		<description><![CDATA[Traffic Skateboards - $32.99 - was $54.99 - 40% off]]></description>
+		<wasPrice>54.99</wasPrice>
 		<discountPercent>40</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/scutee.1.lb.01..jpg" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/tratee.1.s.g.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Hopps Tee Quartersnacks Snackman White - $34.99]]></title>
-		<link>https://www.boardstore.com.au/hopps-tee-quartersnacks-snackman-white</link>
-		<guid isPermaLink="false"><![CDATA[hoptee.1.qssn.w.]]></guid>
-		<description><![CDATA[Hopps Skateboards - $34.99 - was $69.99 - 50% off]]></description>
-		<wasPrice>69.99</wasPrice>
-		<discountPercent>50</discountPercent>
-		<category><![CDATA[Short Sleeve]]></category>
-		<category><![CDATA[Sale]]></category>
-		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/hoptee.1.qssn.w..jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Hopps x Daptone Records Tee 20 Years White - $34.99]]></title>
-		<link>https://www.boardstore.com.au/hopps-x-daptone-records-tee-20-years-white</link>
-		<guid isPermaLink="false"><![CDATA[hoptee.2.25.]]></guid>
-		<description><![CDATA[Hopps Skateboards - $34.99 - was $69.99 - 50% off]]></description>
-		<wasPrice>69.99</wasPrice>
-		<discountPercent>50</discountPercent>
-		<category><![CDATA[Short Sleeve]]></category>
-		<category><![CDATA[Sale]]></category>
-		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/hoptee.2.25..jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Hopps Tee BigHopps Blaze White - $34.99]]></title>
-		<link>https://www.boardstore.com.au/hopps-tee-bighopps-blaze-white</link>
-		<guid isPermaLink="false"><![CDATA[hoptee.4.bhb]]></guid>
+		<title><![CDATA[Hopps Tee Keep It Moving Heathey Grey - $34.99]]></title>
+		<link>https://www.boardstore.com.au/hopps-tee-keep-it-moving-heathey-grey</link>
+		<guid isPermaLink="false"><![CDATA[hoptee.3.kim]]></guid>
 		<description><![CDATA[Hopps Skateboards - $34.99 - was $79.99 - 56% off]]></description>
 		<wasPrice>79.99</wasPrice>
 		<discountPercent>56</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/hoptee.4.bhb.jpg" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/hoptee.3.kim.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Colours Tee ODB Portrait White - $36.00]]></title>
-		<link>https://www.boardstore.com.au/colours-tee-odb-portrait-white</link>
-		<guid isPermaLink="false"><![CDATA[coltee.2.p.w]]></guid>
+		<title><![CDATA[Hopps Tee NYC Skyline White - $34.99]]></title>
+		<link>https://www.boardstore.com.au/hopps-tee-nyc-skyline-white</link>
+		<guid isPermaLink="false"><![CDATA[hoptee.2.35.]]></guid>
+		<description><![CDATA[Hopps Skateboards - $34.99 - was $69.99 - 50% off]]></description>
+		<wasPrice>69.99</wasPrice>
+		<discountPercent>50</discountPercent>
+		<category><![CDATA[Short Sleeve]]></category>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Slash n Grab]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/hoptee.2.35..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Colours Tee ODB Logo Grey - $36.00]]></title>
+		<link>https://www.boardstore.com.au/colours-tee-odb-logo-grey</link>
+		<guid isPermaLink="false"><![CDATA[coltee.2.l.g]]></guid>
 		<description><![CDATA[Colours Collectiv - $36.00 - was $59.99 - 40% off]]></description>
 		<wasPrice>59.99</wasPrice>
 		<discountPercent>40</discountPercent>
 		<category><![CDATA[Short Sleeve]]></category>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/coltee.2.p.w.png" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/coltee.2.l.g.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Autobahn Wheels Dual Ultra Classic 55mm - $39.99]]></title>
-		<link>https://www.boardstore.com.au/autobahn-wheels-dual-ultra-classic-55mm</link>
-		<guid isPermaLink="false"><![CDATA[autowhe.duc.55]]></guid>
-		<description><![CDATA[Autobahn - $39.99 - was $79.99 - 50% off]]></description>
-		<wasPrice>79.99</wasPrice>
-		<discountPercent>50</discountPercent>
-		<category><![CDATA[Skateboards]]></category>
+		<title><![CDATA[The Killing Floor Tee Wavey Blue - $38.99]]></title>
+		<link>https://www.boardstore.com.au/the-killing-floor-tee-wavey-blue</link>
+		<guid isPermaLink="false"><![CDATA[tkftee.wavey.blu.]]></guid>
+		<description><![CDATA[The Killing Floor - $38.99 - was $64.99 - 40% off]]></description>
+		<wasPrice>64.99</wasPrice>
+		<discountPercent>40</discountPercent>
+		<category><![CDATA[Short Sleeve]]></category>
 		<category><![CDATA[Sale]]></category>
-		<category><![CDATA[Wheels Skateboards]]></category>
-		<category><![CDATA[Street, Park & Vert]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/autowhe.duc.55.jpg" medium="image" />
+		<category><![CDATA[Slash n Grab]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/tkftee.wavey.blu..jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Autobahn Wheels Dual Duro Classic 97a 52mm - $39.99]]></title>
-		<link>https://www.boardstore.com.au/autobahn-wheels-dual-ultra-classic-52mm-97a</link>
-		<guid isPermaLink="false"><![CDATA[autowhe.duc.52]]></guid>
+		<title><![CDATA[Autobahn Wheels GT1 Wide 52mm 101a White - $39.99]]></title>
+		<link>https://www.boardstore.com.au/autobahn-wheels-gt1-wide-52mm-101a-white</link>
+		<guid isPermaLink="false"><![CDATA[autowhe.gt1.52]]></guid>
 		<description><![CDATA[Autobahn - $39.99 - was $79.99 - 50% off]]></description>
 		<wasPrice>79.99</wasPrice>
 		<discountPercent>50</discountPercent>
@@ -635,89 +621,100 @@
 		<category><![CDATA[Street, Park & Vert]]></category>
 		<category><![CDATA[Autobahn]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/autowhe.duc.52.jpg" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/autowhe.gt1.52.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[The Portland Wheel Company 54mm (101a) The Standards V2 - $48.00]]></title>
-		<link>https://www.boardstore.com.au/tpwc-54mm-101a-the-standards-v2</link>
-		<guid isPermaLink="false"><![CDATA[tpwcwhe.tsv2.54]]></guid>
-		<description><![CDATA[TPWC - $48.00 - was $79.99 - 40% off]]></description>
+		<title><![CDATA[Autobahn Wheels Torus Ultra 52mm 83B - $39.99]]></title>
+		<link>https://www.boardstore.com.au/autobahn-wheels-torus-ultra-52mm-83b</link>
+		<guid isPermaLink="false"><![CDATA[autowhe.tu.52.83]]></guid>
+		<description><![CDATA[Autobahn - $39.99 - was $79.99 - 50% off]]></description>
 		<wasPrice>79.99</wasPrice>
-		<discountPercent>40</discountPercent>
+		<discountPercent>50</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Street, Park & Vert]]></category>
+		<category><![CDATA[Autobahn]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/tpwcwhe.tsv2.54.jpg" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/autowhe.tu.52.83.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Caliber Trucks RKP V2 10 44d Stone Ruby - $60.00]]></title>
-		<link>https://www.boardstore.com.au/caliber-trucks-rkp-v2-10-44d-stone-ruby</link>
-		<guid isPermaLink="false"><![CDATA[caltru.rkp.44.10.storub]]></guid>
-		<description><![CDATA[Caliber - $60.00 - was $139.99 - 57% off]]></description>
-		<wasPrice>139.99</wasPrice>
-		<discountPercent>57</discountPercent>
+		<title><![CDATA[PROTO Half Knuckle Clamp V2 Gold Oversized and Standard - $50.00]]></title>
+		<link>https://www.boardstore.com.au/proto-half-knuckle-clamp-v2-gold-oversized</link>
+		<guid isPermaLink="false"><![CDATA[PSCCHKV2GD]]></guid>
+		<description><![CDATA[Proto - $50.00 - was $84.99 - 41% off]]></description>
+		<wasPrice>84.99</wasPrice>
+		<discountPercent>41</discountPercent>
 		<category><![CDATA[Sale]]></category>
-		<category><![CDATA[Trucks Skateboards]]></category>
-		<category><![CDATA[Trucks Longboards]]></category>
+		<category><![CDATA[Clamps]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/caltru.rkp.44.10.storub.jpg" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/PSCCHKV2GD.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Scram Deck 8.0 Longneck (assort. veneer) - $70.00]]></title>
-		<link>https://www.boardstore.com.au/scram-deck-8.0-longneck-assort.-veneer</link>
-		<guid isPermaLink="false"><![CDATA[scrdec.ln.8.0]]></guid>
-		<description><![CDATA[Scram Skates - $70.00 - was $139.99 - 50% off]]></description>
+		<title><![CDATA[Eternal x Tony Mott Deck Michael Hutchence 8.0 - $65.00]]></title>
+		<link>https://www.boardstore.com.au/eternal-x-tony-mott-deck-michael-hutchence-8.0</link>
+		<guid isPermaLink="false"><![CDATA[etedec.1.tmm.8.0]]></guid>
+		<description><![CDATA[Eternal Skateboards - $65.00 - was $109.99 - 41% off]]></description>
+		<wasPrice>109.99</wasPrice>
+		<discountPercent>41</discountPercent>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Double Kick]]></category>
+		<category><![CDATA[Slash n Grab]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/etedec.1.tmm.8.0.png" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Uma Jumper Dead Hoodie Green - $71.99]]></title>
+		<link>https://www.boardstore.com.au/uma-jumper-dead-hoodie-green</link>
+		<guid isPermaLink="false"><![CDATA[umahoo.014.]]></guid>
+		<description><![CDATA[Uma Landsleds - $71.99 - was $119.99 - 40% off]]></description>
+		<wasPrice>119.99</wasPrice>
+		<discountPercent>40</discountPercent>
+		<category><![CDATA[Clothing]]></category>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Jumpers]]></category>
+		<category><![CDATA[Slash n Grab]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/umahoo.014..jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[151 Deck 8.0 Pigpen Germs - $83.99]]></title>
+		<link>https://www.boardstore.com.au/151-deck-8.0-pigpen-germs</link>
+		<guid isPermaLink="false"><![CDATA[151dec.pg.8.0]]></guid>
+		<description><![CDATA[151 Skateboards - $83.99 - was $139.99 - 40% off]]></description>
 		<wasPrice>139.99</wasPrice>
-		<discountPercent>50</discountPercent>
+		<discountPercent>40</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<category><![CDATA[8.0-8.5 Inch Decks]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/scrdec.ln.8.0.jpg" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/151dec.pg.8.0.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Uma Deck Abnormal Growth Maite 8.25 - $83.99]]></title>
-		<link>https://www.boardstore.com.au/uma-deck-abnormal-growth-maite-8.25</link>
-		<guid isPermaLink="false"><![CDATA[umadec.ang.m.8.2]]></guid>
-		<description><![CDATA[Uma Landsleds - $83.99 - was $139.99 - 40% off]]></description>
+		<title><![CDATA[The Killing Floor Deck 8.375 Anderson/Lehman - $83.99]]></title>
+		<link>https://www.boardstore.com.au/the-killing-floor-deck-8.375-anderson-lehman</link>
+		<guid isPermaLink="false"><![CDATA[tkfdec.1.al.8.3]]></guid>
+		<description><![CDATA[The Killing Floor - $83.99 - was $139.99 - 40% off]]></description>
 		<wasPrice>139.99</wasPrice>
 		<discountPercent>40</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
-		<category><![CDATA[Uma Decks]]></category>
+		<category><![CDATA[8.0-8.5 Inch Decks]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/umadec.ang.m.8.2.png" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/tkfdec.1.al.8.3.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Visit Deck 8.125 Gallant Scrap - $83.99]]></title>
-		<link>https://www.boardstore.com.au/visit-deck-8.125-gallant-scrap</link>
-		<guid isPermaLink="false"><![CDATA[visdec.1.gs.8.1]]></guid>
+		<title><![CDATA[Visit Deck Logo 8.25 - $83.99]]></title>
+		<link>https://www.boardstore.com.au/visit-deck-logo-8.25</link>
+		<guid isPermaLink="false"><![CDATA[visdec.1.log.8.2]]></guid>
 		<description><![CDATA[Visit Skateboarding - $83.99 - was $139.99 - 40% off]]></description>
 		<wasPrice>139.99</wasPrice>
 		<discountPercent>40</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
-		<category><![CDATA[8.0-8.5 Inch Decks]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/visdec.1.gs.8.1.png" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/visdec.1.log.8.2.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Uma Deck Blocks 8.25 - $83.99]]></title>
-		<link>https://www.boardstore.com.au/uma-deck-blocks-8.25</link>
-		<guid isPermaLink="false"><![CDATA[umadec.3.b.8.2]]></guid>
-		<description><![CDATA[Uma Landsleds - $83.99 - was $139.99 - 40% off]]></description>
-		<wasPrice>139.99</wasPrice>
-		<discountPercent>40</discountPercent>
-		<category><![CDATA[Sale]]></category>
-		<category><![CDATA[Double Kick]]></category>
-		<category><![CDATA[Uma Decks]]></category>
-		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/umadec.3.b.8.2.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Madrid x Labyrinth Deck Logo 3D Print 8.0 - $85.00]]></title>
-		<link>https://www.boardstore.com.au/madrid-x-labyrinth-deck-logo-3d-print-8.0</link>
-		<guid isPermaLink="false"><![CDATA[maddec.lab.log.8.0]]></guid>
+		<title><![CDATA[Madrid x Labyrinth Deck Sarah 8.0 - $85.00]]></title>
+		<link>https://www.boardstore.com.au/madrid-x-labyrinth-deck-sarah-8.0</link>
+		<guid isPermaLink="false"><![CDATA[maddec.lab.sar.8.0]]></guid>
 		<description><![CDATA[Madrid - $85.00 - was $169.99 - 50% off]]></description>
 		<wasPrice>169.99</wasPrice>
 		<discountPercent>50</discountPercent>
@@ -725,43 +722,43 @@
 		<category><![CDATA[Double Kick]]></category>
 		<category><![CDATA[8.0-8.5 Inch Decks]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/maddec.lab.log.8.0.png" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/maddec.lab.sar.8.0.png" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Traffic Deck Malaney's Hardware 7.75 - $89.99]]></title>
-		<link>https://www.boardstore.com.au/traffic-deck-malaneys-hardware-7.75</link>
-		<guid isPermaLink="false"><![CDATA[tradec.1.mh.7.7]]></guid>
+		<title><![CDATA[Traffic Deck Wheat Paste 8.25 - $89.99]]></title>
+		<link>https://www.boardstore.com.au/traffic-deck-wheat-paste-8.25</link>
+		<guid isPermaLink="false"><![CDATA[tradec.1.whp.8.2]]></guid>
 		<description><![CDATA[Traffic Skateboards - $89.99 - was $149.99 - 40% off]]></description>
 		<wasPrice>149.99</wasPrice>
 		<discountPercent>40</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/tradec.1.mh.7.7.jpg" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/tradec.1.whp.8.2.jpg" medium="image" />
 	</item>
 	<item>
-		<title><![CDATA[Fancy Lad Deck Milksnake 8.25 - $89.99]]></title>
-		<link>https://www.boardstore.com.au/fancy-lad-deck-milksnake-8.25</link>
-		<guid isPermaLink="false"><![CDATA[fldec.ms.8.2]]></guid>
-		<description><![CDATA[Fancy Lad Skateboards - $89.99 - was $149.99 - 40% off]]></description>
-		<wasPrice>149.99</wasPrice>
-		<discountPercent>40</discountPercent>
-		<category><![CDATA[Sale]]></category>
-		<category><![CDATA[Double Kick]]></category>
-		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/fldec.ms.8.2.jpg" medium="image" />
-	</item>
-	<item>
-		<title><![CDATA[Hopps Deck Abstract Series Brandi 8.25 Inch Width - $89.99]]></title>
-		<link>https://www.boardstore.com.au/hopps-deck-abstract-series-brandi-8.25-inch-width</link>
-		<guid isPermaLink="false"><![CDATA[HOPDEC.2.AB.8.2]]></guid>
+		<title><![CDATA[Hopps Deck Hard Goods Keith Denly 8.375 - $89.99]]></title>
+		<link>https://www.boardstore.com.au/hopps-deck-hard-goods-keith-denly-8.375</link>
+		<guid isPermaLink="false"><![CDATA[hopdec.1.kd.8.3]]></guid>
 		<description><![CDATA[Hopps Skateboards - $89.99 - was $149.99 - 40% off]]></description>
 		<wasPrice>149.99</wasPrice>
 		<discountPercent>40</discountPercent>
 		<category><![CDATA[Sale]]></category>
 		<category><![CDATA[Double Kick]]></category>
 		<category><![CDATA[Slash n Grab]]></category>
-		<media:content url="https://www.boardstore.com.au/assets/thumb/HOPDEC.2.AB.8.2.jpg" medium="image" />
+		<media:content url="https://www.boardstore.com.au/assets/thumb/hopdec.1.kd.8.3.jpg" medium="image" />
+	</item>
+	<item>
+		<title><![CDATA[Hopps Deck Hig Hopps Blaze 8.25 Inch Width - $89.99]]></title>
+		<link>https://www.boardstore.com.au/hopps-deck-hig-hopps-blaze-8.25-inch-width</link>
+		<guid isPermaLink="false"><![CDATA[hopdec.2.bhb.8.2]]></guid>
+		<description><![CDATA[Hopps Skateboards - $89.99 - was $149.99 - 40% off]]></description>
+		<wasPrice>149.99</wasPrice>
+		<discountPercent>40</discountPercent>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Double Kick]]></category>
+		<category><![CDATA[Slash n Grab]]></category>
+		<media:content url="https://www.boardstore.com.au/assets/thumb/hopdec.2.bhb.8.2.jpg" medium="image" />
 	</item>
 </channel>
 </rss>
